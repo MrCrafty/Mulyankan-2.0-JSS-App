@@ -19,6 +19,22 @@
                 ]
             },
             {
+                "name": "Templates.Project",
+                "path": "/sitecore/Templates/Project",
+                "database": "master",
+                "rules": [      
+                    {
+                        "path": "/Horizontal",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+					{
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
                 "name": "Placeholders",
                 "path": "/sitecore/layout/Placeholder Settings",
                 "database": "master",

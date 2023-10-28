@@ -1,28 +1,28 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings.yml
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings.yml
 ID: "1ce3b36c-9b0c-4eb5-a996-bfcb4eaa5287"
 Parent: "eb2e4ffd-2761-4653-b052-26a64d385227"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/layout/Placeholder Settings
 Signature: tni/Fo3do8DKIxTWNP6O7tDfUBtAsELJE4ZKPj8nk3Q=
-Modified: 638340710639863094
+Modified: 638340835110114784
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings\Project.yml
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings\Project.yml
 ID: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
 Parent: "1ce3b36c-9b0c-4eb5-a996-bfcb4eaa5287"
 Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
 Path: /sitecore/layout/Placeholder Settings/Project
 Signature: u9XCSnZ7ARNJG+tH9Uj9TOepZo0KI+c1qImc4+XACHs=
-Modified: 638340710639879387
+Modified: 638340835110114784
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings\Project\Horizontal.yml
-ID: "18a2f009-581e-4776-8cf1-1f9c9e019efa"
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Placeholders\Placeholder Settings\Project\Horizontal.yml
+ID: "5e9bba4e-03d0-4351-b7cf-5915a7f16ebb"
 Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
 Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
 Path: /sitecore/layout/Placeholder Settings/Project/Horizontal
-Signature: Qr8jvYO8QPSQSnyt9BiGSNQ77F9rHr7/8xPv7SE+PHQ=
-Modified: 638340710639897612
+Signature: kWYbN8lIx1P0GTm+eOKhQu4LhiEkZWI6gekBFpLkrrI=
+Modified: 638340835110271058
