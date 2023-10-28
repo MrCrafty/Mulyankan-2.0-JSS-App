@@ -103,8 +103,8 @@
     },
     "leprechaun": {
         "configuration": {
-          "@extends": "HZTLSWAGStore", // Same name as in your leprechaun.config file
-          "@name": "HZTLSWAG.feature-templates" // Define where you want to save your TypeScript file.
+          "@extends": "HZTLSWAGStore", 
+          "@name": "HZTLSWAG.Templates"
         }
     }
 }

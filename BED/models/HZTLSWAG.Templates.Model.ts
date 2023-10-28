@@ -15,7 +15,7 @@ import { ComponentRendering, RouteData, Field, ImageField, FileField, LinkField 
 import { DefaultComponentProps } from '@/lib/component-props';
 
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
     export type Banner = { 
         fields?: { 
             /**
@@ -42,7 +42,7 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
     export type ContentBlock = { 
         fields?: { 
             /**
@@ -74,7 +74,7 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
     export type Footer = { 
         fields?: { 
             /**
@@ -116,7 +116,7 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
     export type Footerdata = { 
         fields?: { 
             /**
@@ -133,7 +133,7 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
     export type Header = { 
         fields?: { 
             /**
@@ -155,14 +155,14 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.PageTemplate.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.PageTemplate.Fields {
     export type HomePage = { 
         fields?: {  
         }
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
     export type ProductCard = { 
         fields?: { 
             /**
@@ -189,7 +189,7 @@ export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.
  }; 
 }
 
-export namespace Sample.HZTLSWAG.feature-templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
     export type ProductListing = { 
         fields?: { 
             /**
