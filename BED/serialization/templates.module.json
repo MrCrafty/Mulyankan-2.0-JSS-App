@@ -1,0 +1,21 @@
+{
+    "namespace": "Mulyankan",
+    "items": {
+        "includes": [
+            {
+                "name": "feature",
+                "path": "/sitecore/templates/Feature/JSS Experience Accelerator/Page Content"
+            },
+            {
+                "name": "project",
+                "path": "/sitecore/templates/Project/Horizontal"
+            }
+        ]
+    },
+    "leprechaun":{
+        "configuration":{
+            "@extends":"Mulyankan.Base",
+            "@name":"templates"
+        }
+    }
+}

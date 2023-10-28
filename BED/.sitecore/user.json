@@ -1,0 +1,17 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://scmulyankansc.dev.local",
+      "authority": "https://scmulyankanidentityserver.dev.local",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjI4MjY3MzMyMzZFN0I4N0REN0I5REM4QzNDODNERDJEQjY5NTVDRThSUzI1NiIsIng1dCI6IktDWnpNamJudUgzWHVkeU1QSVBkTGJhVlhPZyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL3NjbXVseWFua2FuaWRlbnRpdHlzZXJ2ZXIuZGV2LmxvY2FsIiwibmJmIjoxNjk4NDE2NTEzLCJpYXQiOjE2OTg0MTY1MTMsImV4cCI6MTY5ODQyMDExMywiYXVkIjpbInNpdGVjb3JlLnByb2ZpbGUuYXBpIiwiaHR0cHM6Ly9zY211bHlhbmthbmlkZW50aXR5c2VydmVyLmRldi5sb2NhbC9yZXNvdXJjZXMiXSwic2NvcGUiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl0sImNsaWVudF9pZCI6IkRldmljZSIsInN1YiI6IjRkZWVmMDIxMjQwZDQyYmU4Y2I2YzNmYTNlMDEzOTRlIiwiYXV0aF90aW1lIjoxNjk4NDE2NTA4LCJpZHAiOiJsb2NhbCIsIm5hbWUiOiJzaXRlY29yZVxcQWRtaW4iLCJlbWFpbCI6IiIsImh0dHA6Ly93d3cuc2l0ZWNvcmUubmV0L2lkZW50aXR5L2NsYWltcy9pc0FkbWluIjoiVHJ1ZSIsInNpZCI6IjFEMDdEQ0I5MzkwQzA1NDhEMzg0MkM2MTVENEI4MDE5IiwianRpIjoiMTFDM0RCQUZBRDE5NDBFRUNFODE5QzkyMEM0REFDMEIifQ.BqzPuKiuvrslWgv4UpgzynFQUh-wISkZKuIcc6PPzPyemDYS5WyJTQnMCJ-QAH1tozKvZbCXkfw8A5yVjOxVXFuYImR1vdcwZvALfnRKDHouu6NqV2c8c3FiZl8VPJdd9z1OCqRm775j_LS2YyDgeFhT9WLkdV34wiV9dvZGek3hRXyl2buJ0L2JrdiUFaTEqbjYT7vJA12WLZRNIN6jEeFuQBIj0DxJHeuOUaOrr2R2OPxaOPcowQhWuz6hgRp3wAoX6SqfBjnX9VyvKRmrxjl718IfHtQtXWbtxQ1jXt2T-OAzoT-WvLKUettgG639b1q-f1hOgl2IsbPjyzdCeQ",
+      "refreshToken": "3BD295632FB95014308C2CAB66B823EFEA62E9A2F33D8E401CEE85C940AF300D-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2023-10-27T14:21:53.4386824Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json",
+  "defaultEndpoint": "default"
+}
