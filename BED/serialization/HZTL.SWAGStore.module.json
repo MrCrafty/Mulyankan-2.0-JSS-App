@@ -3,17 +3,12 @@
     "items": {
         "includes": [
            {
-                "name": "Templates",
-                "path": "/sitecore/Templates",
+                "name": "Templates.Feature",
+                "path": "/sitecore/Templates/Feature",
                 "database": "master",
                 "rules": [      
                     {
-                        "path": "/Feature/swag-store",
-                        "scope": "ItemAndDescendants",
-                        "allowedPushOperations": "CreateUpdateAndDelete"
-                    },
-					{
-                        "path": "/Project",
+                        "path": "/swag-store",
                         "scope": "ItemAndDescendants",
                         "allowedPushOperations": "CreateUpdateAndDelete"
                     },
@@ -40,12 +35,12 @@
                 ]
             },
 			{
-                "name": "Media",
-                "path": "/sitecore/media library",
+                "name": "Media.Project",
+                "path": "/sitecore/media library/Project",
                 "database": "master",
                 "rules": [
                     {
-                        "path": "/Project/Horizontal",
+                        "path": "/Horizontal",
                         "scope": "ItemAndDescendants",
                         "allowedPushOperations": "CreateUpdateAndDelete"
                     },
@@ -56,12 +51,12 @@
                 ]
             },
 			{
-                "name": "Renderings",
-                "path": "/sitecore/layout/Renderings",
+                "name": "Renderings.Feature",
+                "path": "/sitecore/layout/Renderings/Feature",
                 "database": "master",
                 "rules": [
                     {
-                        "path": "/Feature/swag-store",
+                        "path": "/swag-store",
                         "scope": "ItemAndDescendants",
                         "allowedPushOperations": "CreateUpdateAndDelete"
                     },
@@ -89,5 +84,11 @@
                 ]
             }
         ]
+    },
+    "leprechaun": {
+        "configuration": {
+          "@extends": "HZTLSWAGStore", // Same name as in your leprechaun.config file
+          "@name": "HZTLSWAG.feature-templates" // Define where you want to save your TypeScript file.
+        }
     }
 }

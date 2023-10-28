@@ -1,0 +1,37 @@
+﻿---
+ID: "880272ee-b5dc-4556-bce7-9340ec33f534"
+Parent: "8a5c858a-3f71-47b5-9fd2-354ecc7bb82f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Feature/swag-store/Page Template/Home Page"
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {E8A56EA2-659B-4D00-9972-87FA2D8F2937}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T052026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\npatel
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\npatel
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f81d4d6-4e36-4c0a-8e60-50fe3503fcd9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\npatel
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T052058Z

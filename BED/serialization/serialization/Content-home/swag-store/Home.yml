@@ -1,0 +1,67 @@
+﻿---
+ID: "eda29407-66e2-4516-87dd-c3da9aa766dd"
+Parent: "61eab509-17c2-4f78-8e50-4426523a93c5"
+Template: "928cc400-0edb-4bf0-8ac5-b894d79e39bd"
+Path: "/sitecore/content/Horizontal/swag-store/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{817D81E6-CCEB-45DD-80AA-3E05E4567790}"
+          p:before="*"
+          s:ds="{0F16DE45-DD5B-46B8-8A51-99393E347421}"
+          s:id="{436F2B2C-B2E7-452F-A3AD-08E9BC89E2F3}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B2CBCF76-61E2-4B3C-8DEB-B7349B4CC897}"
+          p:after="*[1=2]"
+          s:ds="{5C3D2B3E-3BC4-4557-8FA4-DD10643C0DA5}"
+          s:id="{C25AFAD0-00A9-488F-8FBF-4EBAB0945390}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231027T072003Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "swag-store"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef2dfa42-f4ec-46be-a7e1-3e15d45175ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\npatel
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T060526Z
+    - ID: "f50bf75a-71a3-476d-9dac-cca144416611"
+      Hint: Title
+      Value: HZTL Swag Store
