@@ -6,9 +6,7 @@ Path: "/sitecore/templates/Feature/swag-store/Page Template/Home Page"
 SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
-    {E8A56EA2-659B-4D00-9972-87FA2D8F2937}
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 Languages:
 - Language: en
   Versions:
@@ -27,11 +25,11 @@ Languages:
         sitecore\npatel
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f81d4d6-4e36-4c0a-8e60-50fe3503fcd9"
+      Value: "9b6b842d-d09b-4808-8606-ea3fc35a771a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T052058Z
+      Value: 20231028T093127Z

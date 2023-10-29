@@ -1,19 +1,37 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store\Home.yml
-ID: "eda29407-66e2-4516-87dd-c3da9aa766dd"
-Parent: "61eab509-17c2-4f78-8e50-4426523a93c5"
-Template: "928cc400-0edb-4bf0-8ac5-b894d79e39bd"
-Path: "/sitecore/content/Horizontal/swag-store/Home"
-Signature: ACXjl2XISmu1LNCNnakwdffW02Qp4LvT4NnUl/Q4HlE=
-Modified: 638340710640080665
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store.yml
+ID: "8e208662-1c88-4075-a6c0-699fade6db3c"
+Parent: "d2638d10-0496-491b-90e8-49d6f632ae99"
+Template: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
+Path: "/sitecore/content/Horizontal/swag-store"
+Signature: MHwqZjttNOZsZ0+WhM/a5n6aAuYulufINiwAT7vhA/I=
+Modified: 638340835110271058
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store.yml
-ID: "61eab509-17c2-4f78-8e50-4426523a93c5"
-Parent: "f0ad377a-768d-4a78-a95a-4c63f243ea20"
-Template: "223b61d5-978e-40c1-8bef-b0462f954515"
-Path: "/sitecore/content/Horizontal/swag-store"
-Signature: 0pNl7lnIN8Alro7abJQOxBusT+W+cnlWQAtm2TNxa98=
-Modified: 638340710640061715
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store\Home\Products.yml
+ID: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
+Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home/Products"
+Signature: Gd6Q3dkM9y60/aSVygyx31OMfCJIffCzAEx+dPaBPfA=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store\Home\Swags.yml
+ID: "bf6b49dd-47f0-49e5-8881-18040347e413"
+Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home/Swags"
+Signature: Eghwns/ysBcELRnJbarpja/uNRUQ7al56uXLFyHaJN0=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Content-home\swag-store\Home.yml
+ID: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Parent: "8e208662-1c88-4075-a6c0-699fade6db3c"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home"
+Signature: 7hRefq6IIdkpGVaqTJ1eB6MzPbLHTUGiP7BccK2zQyA=
+Modified: 638340835110271058

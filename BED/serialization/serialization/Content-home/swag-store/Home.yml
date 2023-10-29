@@ -1,7 +1,7 @@
 ﻿---
-ID: "eda29407-66e2-4516-87dd-c3da9aa766dd"
-Parent: "61eab509-17c2-4f78-8e50-4426523a93c5"
-Template: "928cc400-0edb-4bf0-8ac5-b894d79e39bd"
+ID: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Parent: "8e208662-1c88-4075-a6c0-699fade6db3c"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
@@ -13,21 +13,23 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{817D81E6-CCEB-45DD-80AA-3E05E4567790}"
+          uid="{F9B7BFD0-D80F-4A6E-B82E-55D883B04F5B}"
           p:before="*"
-          s:ds="{0F16DE45-DD5B-46B8-8A51-99393E347421}"
-          s:id="{436F2B2C-B2E7-452F-A3AD-08E9BC89E2F3}"
-          s:par=""
-          s:ph="headless-main"
-          s:ccb="Clear on publish" />
+          s:id="{50B0BF19-02C3-43FA-96D3-D0CB226EADBD}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-header" />
         <r
-          uid="{B2CBCF76-61E2-4B3C-8DEB-B7349B4CC897}"
+          uid="{9D5D8B8A-C060-4F73-9ABB-1225557EF3C2}"
+          p:after="r[@uid='{F9B7BFD0-D80F-4A6E-B82E-55D883B04F5B}']"
+          s:id="{436F2B2C-B2E7-452F-A3AD-08E9BC89E2F3}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
+        <r
+          uid="{A2644235-4136-428D-B95B-1A8EBC4BE93F}"
           p:after="*[1=2]"
-          s:ds="{5C3D2B3E-3BC4-4557-8FA4-DD10643C0DA5}"
-          s:id="{C25AFAD0-00A9-488F-8FBF-4EBAB0945390}"
-          s:par=""
-          s:ph="headless-main"
-          s:ccb="Clear on publish" />
+          s:id="{F720B2AB-EDD6-4346-A6B8-2ADFA5DD9F4F}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
       </d>
     </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -40,7 +42,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231027T072003Z
+      Value: 20231028T082246Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "swag-store"
@@ -52,16 +54,16 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "83d8202b-faf2-4a4f-af90-ef8f05b10abb"
+      Hint: Title
+      Value: "swag-store"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef2dfa42-f4ec-46be-a7e1-3e15d45175ed"
+      Value: "04da61d9-2155-4017-82ec-3bae26ef83af"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T060526Z
-    - ID: "f50bf75a-71a3-476d-9dac-cca144416611"
-      Hint: Title
-      Value: HZTL Swag Store
+      Value: 20231028T092307Z

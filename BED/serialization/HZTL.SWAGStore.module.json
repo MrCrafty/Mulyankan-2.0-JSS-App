@@ -19,6 +19,22 @@
                 ]
             },
             {
+                "name": "Templates.Project",
+                "path": "/sitecore/Templates/Project",
+                "database": "master",
+                "rules": [      
+                    {
+                        "path": "/Horizontal",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+					{
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
                 "name": "Placeholders",
                 "path": "/sitecore/layout/Placeholder Settings",
                 "database": "master",
@@ -87,8 +103,8 @@
     },
     "leprechaun": {
         "configuration": {
-          "@extends": "HZTLSWAGStore", // Same name as in your leprechaun.config file
-          "@name": "HZTLSWAG.feature-templates" // Define where you want to save your TypeScript file.
+          "@extends": "HZTLSWAGStore", 
+          "@name": "HZTLSWAG.Templates"
         }
     }
 }

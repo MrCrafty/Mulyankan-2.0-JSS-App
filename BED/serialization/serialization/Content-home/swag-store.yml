@@ -1,7 +1,7 @@
 ﻿---
-ID: "61eab509-17c2-4f78-8e50-4426523a93c5"
-Parent: "f0ad377a-768d-4a78-a95a-4c63f243ea20"
-Template: "223b61d5-978e-40c1-8bef-b0462f954515"
+ID: "8e208662-1c88-4075-a6c0-699fade6db3c"
+Parent: "d2638d10-0496-491b-90e8-49d6f632ae99"
+Template: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
 Path: "/sitecore/content/Horizontal/swag-store"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
@@ -23,10 +23,10 @@ SharedFields:
     {F0EA389E-F78D-440B-9429-F04FE735344A}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{DEDFC413-393D-4B6D-9655-89C3E80D3335}"
+  Value: "{E8884D32-B6E8-4194-85FB-15AE1689F53F}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
-  Value: "{B7B76CFB-D183-4438-8497-3E8A6E8554C5}"
+  Value: "{D233FAB0-C6E0-4EE8-B2AF-C899F7776BF3}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{A0EECF65-09AD-4A10-AE46-7DF70106CFE6}"
@@ -37,7 +37,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231027T072003Z
+      Value: 20231028T082246Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -48,11 +48,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "929fbde2-e875-4cc4-aaff-af9f59344876"
+      Value: "01eb9e93-ec98-40e3-a5bd-93ea1f69d876"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T054130Z
+      Value: 20231028T094216Z
