@@ -20,8 +20,11 @@ SharedFields:
           s:ph="headless-main"
           s:ccb="Clear on publish" />
         <r
-          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
-          p:after="*[1=2]" />
+          uid="{F7EB7D23-C31E-4527-8B94-B6B9B2B88327}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish" />
+        <r
+          uid="{10C78A08-58EB-49D9-BCEB-1E63BC350B13}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish" />
       </d>
     </r>
 Languages:
@@ -37,14 +40,14 @@ Languages:
       Value: MousePad
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "180494ad-cafe-4766-9544-55ebc4ae5c36"
+      Value: "bacd344a-24b7-44b5-bd95-78c33e3a1a4b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T143435Z
+      Value: 20231029T083530Z
     - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
       Hint: Title
       Value: Penstand

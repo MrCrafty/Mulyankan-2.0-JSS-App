@@ -3,6 +3,22 @@
   "items": {
     "includes": [
       {
+        "name": "Templates.Foundation",
+        "path": "/sitecore/templates/Foundation",
+        "database": "master",
+        "rules": [
+          {
+            "path": "/Horizontal",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
         "name": "Templates.Feature",
         "path": "/sitecore/Templates/Feature",
         "database": "master",
@@ -34,23 +50,6 @@
           }
         ]
       },
-      {
-        "name": "Templates.Foundation",
-        "path": "/sitecore/templates/Foundation",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Horizontal",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-
       {
         "name": "Placeholders",
         "path": "/sitecore/layout/Placeholder Settings",
