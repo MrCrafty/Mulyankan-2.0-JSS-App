@@ -33,6 +33,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
     "@sitecore-feaas/clientside": "^0.3.10",
     "@sitecore-jss/sitecore-jss-nextjs": "~21.5.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
