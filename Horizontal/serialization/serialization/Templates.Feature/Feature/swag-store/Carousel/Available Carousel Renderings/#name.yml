@@ -6,9 +6,7 @@ Path: "/sitecore/templates/Feature/swag-store/Carousel/Available Carousel Render
 SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
-  Value: |
-    {AF30A843-F127-4E92-877B-23D52A4D3DCF}
-    {30F7E628-377D-4A81-BAFF-AE50E87EFA65}
+  Value: "{AF30A843-F127-4E92-877B-23D52A4D3DCF}"
 Languages:
 - Language: en
   Versions:
@@ -23,11 +21,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "46eb06f1-9996-4688-810f-f0b93d13c1c5"
+      Value: "6a257a9e-924d-4651-aea8-5e25bac38eac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T083346Z
+      Value: 20231028T110416Z

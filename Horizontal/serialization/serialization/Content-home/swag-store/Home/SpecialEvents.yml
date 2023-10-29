@@ -3,24 +3,6 @@ ID: "61921e43-e876-4f7e-95dc-4b44b58e05ab"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/SpecialEvents"
-SharedFields:
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{4C2EDA36-6B4D-4918-AB14-25D405F6F82F}"
-          p:after="*[1=2]"
-          s:ds="{AA2BB3B2-43CC-470F-9031-31D6991E43C1}"
-          s:id="{70CDBC52-FCFD-49C0-A0D0-98975494049D}"
-          s:par=""
-          s:ph="headless-main"
-          s:ccb="Clear on publish" />
-      </d>
-    </r>
 Languages:
 - Language: en
   Versions:
@@ -37,11 +19,11 @@ Languages:
       Value: SpecialEvents
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "96498356-becd-4aae-82df-e481e7a77f49"
+      Value: "fede1106-4f3a-4e50-9671-7c217ce1ff43"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T074033Z
+      Value: 20231028T100147Z

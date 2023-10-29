@@ -1,125 +1,110 @@
 {
-  "namespace": "HZTL.SWAGStore",
-  "items": {
-    "includes": [
-      {
-        "name": "Templates.Foundation",
-        "path": "/sitecore/templates/Foundation",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Horizontal",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
+    "namespace": "HZTL.SWAGStore",
+    "items": {
+        "includes": [
+           {
+                "name": "Templates.Feature",
+                "path": "/sitecore/Templates/Feature",
+                "database": "master",
+                "rules": [      
+                    {
+                        "path": "/swag-store",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+					{
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
+                "name": "Templates.Project",
+                "path": "/sitecore/Templates/Project",
+                "database": "master",
+                "rules": [      
+                    {
+                        "path": "/Horizontal",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+					{
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+            {
+                "name": "Placeholders",
+                "path": "/sitecore/layout/Placeholder Settings",
+                "database": "master",
+                "rules": [
+                    {
+                        "path": "/Project",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+			{
+                "name": "Media.Project",
+                "path": "/sitecore/media library/Project",
+                "database": "master",
+                "rules": [
+                    {
+                        "path": "/Horizontal",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            },
+			{
+                "name": "Renderings.Feature",
+                "path": "/sitecore/layout/Renderings/Feature",
+                "database": "master",
+                "rules": [
+                    {
+                        "path": "/swag-store",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            }
+            ,
+			{
+                "name": "Content-home",
+                "path": "/sitecore/content/Horizontal/swag-store",
+                "database": "master",
+                "rules": [
+                    {
+                        "path": "/Home",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateAndUpdate"
+                    },
+                    {
+                        "path": "*",
+                        "scope": "ignored"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "name": "Templates.Feature",
-        "path": "/sitecore/Templates/Feature",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/swag-store",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-      {
-        "name": "Templates.Project",
-        "path": "/sitecore/Templates/Project",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Horizontal",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-      {
-        "name": "Placeholders",
-        "path": "/sitecore/layout/Placeholder Settings",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Project",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-      {
-        "name": "Media.Project",
-        "path": "/sitecore/media library/Project",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Horizontal",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-      {
-        "name": "Renderings.Feature",
-        "path": "/sitecore/layout/Renderings/Feature",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/swag-store",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateUpdateAndDelete"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      },
-      {
-        "name": "Content-home",
-        "path": "/sitecore/content/Horizontal/swag-store",
-        "database": "master",
-        "rules": [
-          {
-            "path": "/Home",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
-            "path": "*",
-            "scope": "ignored"
-          }
-        ]
-      }
-    ]
-  },
-  "leprechaun": {
-    "configuration": {
-      "@extends": "HZTLSWAGStore",
-      "@name": "HZTLSWAG.Templates"
+    },
+    "leprechaun": {
+        "configuration": {
+          "@extends": "HZTLSWAGStore", 
+          "@name": "HZTLSWAG.Templates"
+        }
     }
-  }
 }

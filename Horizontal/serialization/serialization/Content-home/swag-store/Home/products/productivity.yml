@@ -21,17 +21,13 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Productivity
-    - ID: "55a816a3-e23a-4816-b183-9786b42a4088"
-      Hint: Thumbnail
-      Value: |
-        <image mediaid="{43A4EDAD-3738-4CDF-A44A-0BF5FA3B780C}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "35366bb6-d49e-40da-999f-d034931a0445"
+      Value: "a248551b-8907-49d0-8b76-963307fc3048"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\brana
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T055048Z
+      Value: 20231028T121334Z

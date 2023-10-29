@@ -2,7 +2,7 @@
 ID: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
-Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/Workspace"
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
@@ -26,10 +26,6 @@ SharedFields:
     </r>
 Languages:
 - Language: en
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: Workspace
   Versions:
   - Version: 1
     Fields:
@@ -48,7 +44,7 @@ Languages:
         <image mediaid="{94972E73-7537-48E9-9C6E-A4FA05F5483D}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70424c66-82a4-489d-ab6e-ad9b6e5a7ef8"
+      Value: "ca216fb2-c139-4727-9da6-def25706245a"
     - ID: "9601bcda-be54-449d-a6bd-505b944045e1"
       Hint: Content
       Value: |
@@ -66,4 +62,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T055334Z
+      Value: 20231028T113457Z

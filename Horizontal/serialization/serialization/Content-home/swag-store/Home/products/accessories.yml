@@ -36,21 +36,21 @@ Languages:
       Value: 20231028T100836Z
     - ID: "3db7db4a-2224-4fae-9199-fa9fa735af49"
       Hint: Title
-      Value: Accessories
+      Value: accessories
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Productivity
     - ID: "55a816a3-e23a-4816-b183-9786b42a4088"
       Hint: Thumbnail
       Value: |
-        <image mediaid="{6FDC6E70-5CD2-4D9A-9F19-FCC98F8AD4DF}" alt="Accessories" height="" width="" hspace="" vspace="" />
+        <image mediaid="{966D0E48-BDF0-4969-8E3F-EB9BD544DF7C}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "64f13d1d-f539-4033-beac-ac6efb6d7c04"
+      Value: "60de7c3f-04c4-4e13-958a-5e3a8edb072b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\brana
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T071605Z
+      Value: 20231028T145127Z

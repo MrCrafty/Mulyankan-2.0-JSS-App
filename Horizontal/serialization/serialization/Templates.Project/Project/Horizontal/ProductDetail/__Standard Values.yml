@@ -27,14 +27,6 @@ SharedFields:
           uid="{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}"
           ccb="Clear on publish" />
         <r
-          id="{88A3C4DD-9555-42E1-92BC-4AE3834BC1FC}"
-          ph="/headless-main"
-          uid="{F7EB7D23-C31E-4527-8B94-B6B9B2B88327}" />
-        <r
-          id="{8AD42913-A949-4385-8825-DC9234A3B7C5}"
-          ph="/headless-main"
-          uid="{10C78A08-58EB-49D9-BCEB-1E63BC350B13}" />
-        <r
           ds="{53E83FE9-8AAB-4A85-AC4E-5FA1B4177194}"
           id="{4665555D-E27B-4B16-9A8D-122532A7A014}"
           par=""
@@ -61,14 +53,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b316c688-b548-4fbc-b15a-dd52d792f32a"
+      Value: "de719e0b-1933-4d9c-92cc-b92df74e0192"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T083530Z
+      Value: 20231028T133313Z
     - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
       Hint: Title
       Value: $name

@@ -1,15 +1,15 @@
 ﻿---
-ID: "66a7ac93-6903-4622-86a2-28255b790d7e"
-Parent: "f2f1c76d-4cd3-4caf-a68b-b73f8ccaf8aa"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/swag-store/Data source Template/ProductCard/Data/title"
+ID: "f720b2ab-edd6-4346-a6b8-2adfa5dd9f4f"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/ProductList"
 SharedFields:
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: "Single-Line Text"
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 100
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: ProductList
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{0543696F-61BE-4DBF-B562-2B7141E31778}"
 Languages:
 - Language: en
   Versions:
@@ -17,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T065331Z
+      Value: 20231028T072318Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +28,11 @@ Languages:
         sitecore\npatel
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "741831ab-dc70-4090-906d-f005a314714d"
+      Value: "bb157534-eed1-4c5a-bfc5-c6159431bfb4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\npatel
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T065331Z
+      Value: 20231028T074032Z

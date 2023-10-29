@@ -2,7 +2,7 @@
 ID: "c4f0c142-2e5a-41ed-87ea-6936f844b27f"
 Parent: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
-Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace/PenStand"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/Workspace/PenStand"
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
@@ -20,11 +20,8 @@ SharedFields:
           s:ph="headless-main"
           s:ccb="Clear on publish" />
         <r
-          uid="{F7EB7D23-C31E-4527-8B94-B6B9B2B88327}"
-          s:par="CacheClearingBehavior=Clear%20on%20publish" />
-        <r
-          uid="{10C78A08-58EB-49D9-BCEB-1E63BC350B13}"
-          s:par="CacheClearingBehavior=Clear%20on%20publish" />
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="*[1=2]" />
       </d>
     </r>
 Languages:
@@ -40,14 +37,14 @@ Languages:
       Value: MousePad
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bacd344a-24b7-44b5-bd95-78c33e3a1a4b"
+      Value: "180494ad-cafe-4766-9544-55ebc4ae5c36"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T083530Z
+      Value: 20231028T143435Z
     - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
       Hint: Title
       Value: Penstand

@@ -19,6 +19,9 @@ SharedFields:
           s:par=""
           s:ph="headless-main"
           s:ccb="Clear on publish" />
+        <r
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="*[1=2]" />
       </d>
     </r>
 Languages:
@@ -38,14 +41,14 @@ Languages:
       Value: Product1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "23964cdf-0206-44ee-a144-8fa3c188c379"
+      Value: "f3115008-585d-45b8-b70f-7c42cee44b67"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T083530Z
+      Value: 20231028T143926Z
     - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
       Hint: Title
       Value: 

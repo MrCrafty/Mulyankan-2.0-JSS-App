@@ -3,24 +3,6 @@ ID: "fdc761bb-e7f0-415c-839c-117b0a9bbb0d"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/FAQ"
-SharedFields:
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{583D0195-0109-4D0C-B755-421F461E9B13}"
-          p:after="*[1=2]"
-          s:ds="{FEC2E992-20C7-45C6-94EE-9D2D3870D985}"
-          s:id="{6CE3B990-4F91-4CBC-B0A5-90A3C73FC34A}"
-          s:par=""
-          s:ph="headless-main"
-          s:ccb="Clear on publish" />
-      </d>
-    </r>
 Languages:
 - Language: en
   Versions:
@@ -37,11 +19,11 @@ Languages:
       Value: FAQ
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0802fd06-c1b3-43d0-8969-e938dc2081ae"
+      Value: "beaa11b9-c8f7-4f76-b91d-c9ee23379a68"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T071456Z
+      Value: 20231028T100102Z
