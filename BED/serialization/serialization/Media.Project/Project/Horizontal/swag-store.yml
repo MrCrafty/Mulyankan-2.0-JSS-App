@@ -1,6 +1,6 @@
 ﻿---
-ID: "b7b76cfb-d183-4438-8497-3e8a6e8554c5"
-Parent: "4ab68860-e7fa-4335-8f8b-6b42815d83ef"
+ID: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
+Parent: "c29514dd-ad39-4cad-abdd-94f8d758029e"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/Horizontal/swag-store"
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231027T072004Z
+      Value: 20231028T082246Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eeb2ce4c-4d1a-4aa1-a87e-a23003655800"
+      Value: "79ccb1fe-3d7f-4b88-840e-6f6fa08256d5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231027T072004Z
+      Value: 20231028T082246Z

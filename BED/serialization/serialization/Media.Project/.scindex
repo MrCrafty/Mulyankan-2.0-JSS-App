@@ -1,55 +1,55 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal.yml
-ID: "4ab68860-e7fa-4335-8f8b-6b42815d83ef"
-Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Project/Horizontal
-Signature: gjGXV0XUv5rftrW/kwyhgl2zlBc0+4ffm8DcCtFnusw=
-Modified: 638340710639919829
----
-File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store.yml
-ID: "b7b76cfb-d183-4438-8497-3e8a6e8554c5"
-Parent: "4ab68860-e7fa-4335-8f8b-6b42815d83ef"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: "/sitecore/media library/Project/Horizontal/swag-store"
-Signature: l4T5D9aX3QFjJyk1nS0uf5031IuAmrfPaXXexqXrH0k=
-Modified: 638340710639945698
----
-File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\shared.yml
-ID: "6b597da8-e4d1-4811-8f65-53ac0660c7f7"
-Parent: "4ab68860-e7fa-4335-8f8b-6b42815d83ef"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Project/Horizontal/shared
-Signature: gjGXV0XUv5rftrW/kwyhgl2zlBc0+4ffm8DcCtFnusw=
-Modified: 638340710639930539
----
-File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps\sitemap.yml
-ID: "dedfc413-393d-4b6d-9655-89c3e80d3335"
-Parent: "15f67505-623c-4eac-affc-26eff49a1538"
-Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: "/sitecore/media library/Project/Horizontal/swag-store/Sitemaps/sitemap"
-Signature: 0A6np+YtZPvlBF9sGueqTJxzQMdZNdEuTilzPJmHRGk=
-Modified: 638340710639972850
----
-File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project.yml
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project.yml
 ID: "90ae357f-6171-4ea9-808c-5600b678f726"
 Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Project
 Signature: YFguf3OD9N56b6JhZ55hXT0+KuC8x/LWE44p6U9LNfI=
-Modified: 638340710639905444
+Modified: 638340835110271058
 ---
 File: |
-  C:\Users\Admin\Desktop\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps.yml
-ID: "15f67505-623c-4eac-affc-26eff49a1538"
-Parent: "b7b76cfb-d183-4438-8497-3e8a6e8554c5"
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal.yml
+ID: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Horizontal
+Signature: T3VZlk4Rq8gDwHUAC9VnsCc9xK0kAJx72cb4xflsUJY=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\shared.yml
+ID: "c1eecd04-6f22-48a4-baac-a15e4d4c197d"
+Parent: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Horizontal/shared
+Signature: T3VZlk4Rq8gDwHUAC9VnsCc9xK0kAJx72cb4xflsUJY=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store.yml
+ID: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
+Parent: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/Horizontal/swag-store"
+Signature: I/v9deH9Y43f1lbyUrutyBKKo0c+/qa7MLocmLDAHso=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps.yml
+ID: "b30ed456-8377-494a-9da9-840d1dab833c"
+Parent: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Project/Horizontal/swag-store/Sitemaps"
-Signature: DI12OTRrZ0qVMaiB7eewLk29cIXl0PUjK7Ik1j1ZdhI=
-Modified: 638340710639954956
+Signature: vF2wV37l/mL3HvTO/ydtYyToFGcT84j5kmQOPIlHJvo=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps\sitemap.yml
+ID: "e8884d32-b6e8-4194-85fb-15ae1689f53f"
+Parent: "b30ed456-8377-494a-9da9-840d1dab833c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/Sitemaps/sitemap"
+Signature: Zb19j7tXe5cdne3KTjbLs/Y81Vhux7UjC7BpG65l8Eo=
+Modified: 638340835110271058
