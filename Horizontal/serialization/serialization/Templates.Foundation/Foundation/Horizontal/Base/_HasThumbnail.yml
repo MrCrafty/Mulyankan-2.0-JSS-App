@@ -1,8 +1,8 @@
 ﻿---
-ID: "0543696f-61be-4dbf-b562-2b7141e31778"
-Parent: "e8bf107c-5bf9-4cf2-b68b-ec5b0e990ca0"
+ID: "dbdefa90-bbed-414b-b777-a42cf00b9bbd"
+Parent: "9c9d0e53-f0c1-4bda-a0e9-9b22c2cb46d3"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Feature/swag-store/Data source Template/ProductListing"
+Path: /sitecore/templates/Foundation/Horizontal/Base/_HasThumbnail
 SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
@@ -14,22 +14,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T064023Z
+      Value: 20231028T102701Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bd1b3d4e-ed25-4cf1-ba29-95a9d93d464d"
+      Value: "e2521f88-2ed2-4956-9978-58a27923b8a1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T064024Z
+      Value: 20231028T102701Z

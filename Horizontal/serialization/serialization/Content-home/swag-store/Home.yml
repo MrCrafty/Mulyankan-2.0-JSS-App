@@ -41,6 +41,14 @@ SharedFields:
           s:ph="headless-main"
           s:ccb="Clear on publish" />
         <r
+          uid="{E5704E89-8D21-4573-9F4B-5512FB109D2B}"
+          p:after="r[@uid='{A2644235-4136-428D-B95B-1A8EBC4BE93F}']"
+          s:ds="{4A0832FF-0EBD-4B19-88DA-CA6148ACBBEA}"
+          s:id="{8FD56CBA-5072-4717-BE45-6F10BC778AC2}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
           uid="{D6747C16-EDDB-41B5-BA13-AC1BECF2A6E6}"
           p:after="r[@uid='{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}']"
           s:ds="{ED960E8A-8CDA-43E0-9096-B56D0FDCF892}"
@@ -50,10 +58,18 @@ SharedFields:
           s:ccb="Clear on publish" />
         <r
           uid="{A64FA3D0-C1A5-43D6-B6EA-11F9DF5753A5}"
-          p:after="*[1=2]"
+          p:after="r[@uid='{D6747C16-EDDB-41B5-BA13-AC1BECF2A6E6}']"
           s:ds="{52ADF34F-857F-4BD9-ABEA-55A4ABDEC8AA}"
           s:id="{AF30A843-F127-4E92-877B-23D52A4D3DCF}"
           s:par="GridParameters&amp;Speed=7000&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9C4FDF34-9565-403B-8D7C-CD3DFDE7BF9E}"
+          p:after="*[1=2]"
+          s:ds="{FEC2E992-20C7-45C6-94EE-9D2D3870D985}"
+          s:id="{6CE3B990-4F91-4CBC-B0A5-90A3C73FC34A}"
+          s:par=""
           s:ph="headless-main"
           s:ccb="Clear on publish" />
       </d>
@@ -85,11 +101,11 @@ Languages:
       Value: "swag-store "
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "20f1819e-674f-42e7-bf72-90e1ecbba17c"
+      Value: "e29ae941-cfbd-4975-8a72-d7e7e554b684"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\brana
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T142056Z
+      Value: 20231029T070122Z
