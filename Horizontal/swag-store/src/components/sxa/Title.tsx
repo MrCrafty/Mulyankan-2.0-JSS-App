@@ -82,7 +82,7 @@ export const Default = (props: TitleProps): JSX.Element => {
   }
 
   return (
-    <ComponentContent styles={props.params.styles} id={props.params.RenderingIdentifier}>
+    <ComponentContent styles={props.params?.styles} id={props.params?.RenderingIdentifier}>
       <>
         {sitecoreContext.pageState === 'edit' ? (
           <Text field={text} />

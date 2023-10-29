@@ -31,7 +31,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'xm1.cm',
+        hostname: 'xm1.cm'   
       },
     ],
   },
