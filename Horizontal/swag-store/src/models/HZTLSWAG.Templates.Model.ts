@@ -100,6 +100,23 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.Carousel.Fields
  }; 
 }
 
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type CategoryDetail = { 
+        fields?: { 
+            /**
+            * Represents the Content field (9601bcda-be54-449d-a6bd-505b944045e1).
+            */
+            Content: Field<string>;
+
+            /**
+            * Represents the Title field (3db7db4a-2224-4fae-9199-fa9fa735af49).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
 export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
     export type ContentBlock = { 
         fields?: { 
@@ -213,8 +230,74 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
  }; 
 }
 
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type HeadlessSite = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type HeadlessTenant = { 
+        fields?: {  
+        }
+ }; 
+}
+
 export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.PageTemplate.Fields {
     export type HomePage = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type JssSettings = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type Page = { 
+        fields?: { 
+            /**
+            * Represents the Content field (d96602ce-7ffe-47cd-ab36-742e595c9471).
+            */
+            Content: Field<string>;
+
+            /**
+            * Represents the Title field (83d8202b-faf2-4a4f-af90-ef8f05b10abb).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type PageDesignFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type PageDesigns = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type PartialDesignFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type PartialDesigns = { 
         fields?: {  
         }
  }; 
@@ -242,6 +325,43 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
             * Represents the title field (66a7ac93-6903-4622-86a2-28255b790d7e).
             */
             title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type ProductDetail = { 
+        fields?: { 
+            /**
+            * Represents the Content field (081c705a-7f07-4e2e-a3a5-d602a0b4f270).
+            */
+            Content: Field<string>;
+
+            /**
+            * Represents the Except field (e3540d36-ba94-4274-a498-a9d4f76a75b5).
+            */
+            Except: Field<string>;
+
+            /**
+            * Represents the Images field (e79560a0-e221-4476-a3ea-705e3363b6c4).
+            */
+            Images: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Price field (2dd78d5b-0c58-41fd-8c2d-931e74c814ab).
+            */
+            Price: Field<number>;
+
+            /**
+            * Represents the RelatedProducts field (c2642f65-25be-4d2f-a277-48d2ce6d29b8).
+            */
+            RelatedProducts: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Title field (f2c9a2ec-0b78-464d-9d13-a57d9b730eb3).
+            */
+            Title: Field<string>;
  
         }
  }; 
@@ -282,6 +402,13 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
             */
             name: Field<string>;
  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
+    export type Tab = { 
+        fields?: {  
         }
  }; 
 }
