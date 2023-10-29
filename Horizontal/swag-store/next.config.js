@@ -28,6 +28,16 @@ const nextConfig = {
     defaultLocale: jssConfig.defaultLanguage,
   },
   
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'xm1.cm',
+        // port: '',
+        // pathname: '/account123/**',
+      },
+    ],
+  },
   // Enable React Strict Mode
   reactStrictMode: true,
 
