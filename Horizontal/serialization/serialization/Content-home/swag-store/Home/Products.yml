@@ -1,0 +1,62 @@
+﻿---
+ID: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
+Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9B2F5759-724C-4A42-A540-96D1122EDA4D}"
+          p:after="r[@uid='{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}']"
+          s:ds="{FFA77927-FA23-44F0-988A-01135F6E5166}"
+          s:id="{F720B2AB-EDD6-4346-A6B8-2ADFA5DD9F4F}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="r[@uid='{9B2F5759-724C-4A42-A540-96D1122EDA4D}']" />
+        <r
+          uid="{15FF1A11-56D5-4BA1-80B0-7A9BF3053DFE}"
+          p:after="*[1=2]"
+          s:ds="{DE2D9293-5888-4B31-9681-BBBD5294E0B0}"
+          s:id="{7554723D-910B-449F-BD68-D82F4942F2A8}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T093941Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "83d8202b-faf2-4a4f-af90-ef8f05b10abb"
+      Hint: Title
+      Value: Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23732c45-9e60-46d6-8dfb-4ee8a5aa6d8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T043819Z

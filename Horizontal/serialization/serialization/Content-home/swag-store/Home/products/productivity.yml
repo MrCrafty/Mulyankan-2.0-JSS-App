@@ -1,0 +1,33 @@
+﻿---
+ID: "db54c92a-40d6-4e05-a8f8-0fffe5bfe1a5"
+Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
+Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/productivity"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Productivity
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T100836Z
+    - ID: "3db7db4a-2224-4fae-9199-fa9fa735af49"
+      Hint: Title
+      Value: Productivity
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Productivity
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a248551b-8907-49d0-8b76-963307fc3048"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T121334Z

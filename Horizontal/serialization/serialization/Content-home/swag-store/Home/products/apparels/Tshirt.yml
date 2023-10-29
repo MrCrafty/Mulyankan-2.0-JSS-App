@@ -1,0 +1,29 @@
+﻿---
+ID: "685bf8b7-29fd-481b-9ddd-35408a269754"
+Parent: "e36eccca-e6d6-425e-9de2-e7cb7563e376"
+Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/apparels/Tshirt"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132431Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Tshirt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f955afa3-4a97-4962-bcfd-aeffe483006c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T132431Z
+    - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
+      Hint: Title
+      Value: Tshirt
