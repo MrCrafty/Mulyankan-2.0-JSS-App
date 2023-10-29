@@ -7,7 +7,7 @@ import { HZTLSWAG } from 'src/models/HZTLSWAG.Templates.Model';
 type BannerProps = HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields.Banner;
 
 const Banner = ({ fields }: BannerProps) => {
-  console.log(fields);
+  // console.log(fields);
   const BannerImg = fields?.image.value?.src;
   return (
     <div className="relative h-screen w-full overflow-hidden">
