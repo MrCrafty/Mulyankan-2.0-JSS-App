@@ -1,40 +1,22 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal.yml
-ID: "4a3ba5d4-c118-49fa-aa11-f80aee365821"
-Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Foundation/Horizontal
-Signature: Bs7c0KlYTS5+KIfJIAbFJfLRBq28lvMaYBuK/CZOgu4=
-Modified: 638341617143453281
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base.yml
-ID: "9c9d0e53-f0c1-4bda-a0e9-9b22c2cb46d3"
-Parent: "4a3ba5d4-c118-49fa-aa11-f80aee365821"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Foundation/Horizontal/Base
-Signature: jbhYnCvkUzi6baTUShFOUk/Ex6DiycdQEaDMT02tvBI=
-Modified: 638341617143453281
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base\_HasThumbnail\Content.yml
-ID: "6fa77578-aac9-4014-ae05-18f7aae24a67"
-Parent: "dbdefa90-bbed-414b-b777-a42cf00b9bbd"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Foundation/Horizontal/Base/_HasThumbnail/Content
-Signature: TUAFHDjLbZtZeWM+OfROxuH8I+pTQVII5A0Lda4jNJA=
-Modified: 638341617143453281
----
-File: |
   C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation.yml
 ID: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
 Parent: "3c1715fe-6a13-4fcf-845f-de308ba9741d"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Foundation
 Signature: d1EmJwprH555uGUneDPctnwjDbm+rE0aF2CHquky9/E=
-Modified: 638341617143453281
+Modified: 638341663072839993
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal.yml
+ID: "4a3ba5d4-c118-49fa-aa11-f80aee365821"
+Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Horizontal
+Signature: Bs7c0KlYTS5+KIfJIAbFJfLRBq28lvMaYBuK/CZOgu4=
+Modified: 638341663072839993
 ---
 File: |
   C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base\_HasThumbnail.yml
@@ -43,7 +25,16 @@ Parent: "9c9d0e53-f0c1-4bda-a0e9-9b22c2cb46d3"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Foundation/Horizontal/Base/_HasThumbnail
 Signature: svAOhBhxWv5X0yt255BQal4kPslRNKlCJCLynRlpAUg=
-Modified: 638341617143453281
+Modified: 638341663072839993
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base.yml
+ID: "9c9d0e53-f0c1-4bda-a0e9-9b22c2cb46d3"
+Parent: "4a3ba5d4-c118-49fa-aa11-f80aee365821"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Horizontal/Base
+Signature: jbhYnCvkUzi6baTUShFOUk/Ex6DiycdQEaDMT02tvBI=
+Modified: 638341663072839993
 ---
 File: |
   C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base\_HasThumbnail\Content\Thumbnail.yml
@@ -52,4 +43,13 @@ Parent: "6fa77578-aac9-4014-ae05-18f7aae24a67"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Foundation/Horizontal/Base/_HasThumbnail/Content/Thumbnail
 Signature: th9t3umbLl9EIgDMWy+shH4DRnc1aYeHbWaYZeoHEUM=
-Modified: 638341617143453281
+Modified: 638341663072839993
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Foundation\Foundation\Horizontal\Base\_HasThumbnail\Content.yml
+ID: "6fa77578-aac9-4014-ae05-18f7aae24a67"
+Parent: "dbdefa90-bbed-414b-b777-a42cf00b9bbd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Horizontal/Base/_HasThumbnail/Content
+Signature: TUAFHDjLbZtZeWM+OfROxuH8I+pTQVII5A0Lda4jNJA=
+Modified: 638341663072839993

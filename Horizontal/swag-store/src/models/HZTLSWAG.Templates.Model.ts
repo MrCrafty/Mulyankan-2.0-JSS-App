@@ -76,6 +76,18 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
  }; 
 }
 
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+    export type BannerCarousel = { 
+        fields?: { 
+            /**
+            * Represents the bannerImages field (5bda8ef2-c98e-478b-b07e-0462b77ff764).
+            */
+            bannerImages: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
 export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.Carousel.Fields {
     export type Carousel = { 
         fields?: { 
@@ -265,6 +277,18 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
  }; 
 }
 
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields {
+    export type Gallery = { 
+        fields?: { 
+            /**
+            * Represents the Images field (e79560a0-e221-4476-a3ea-705e3363b6c4).
+            */
+            Images: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
 export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields {
     export type Header = { 
         fields?: { 
@@ -411,7 +435,8 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
 
 export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
     export type ProductDetail = 
-            HZTLSWAG.Templates.Sitecore.templates.Horizontal.Base.Fields.HasThumbnail & { 
+            HZTLSWAG.Templates.Sitecore.templates.Horizontal.Base.Fields.HasThumbnail & 
+            HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields.Gallery & { 
         fields?: { 
             /**
             * Represents the Content field (081c705a-7f07-4e2e-a3a5-d602a0b4f270).
@@ -422,11 +447,6 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.Horizontal.Fields {
             * Represents the Except field (e3540d36-ba94-4274-a498-a9d4f76a75b5).
             */
             Except: Field<string>;
-
-            /**
-            * Represents the Images field (e79560a0-e221-4476-a3ea-705e3363b6c4).
-            */
-            Images: Sitecore.Override.ItemEx[];
 
             /**
             * Represents the Price field (2dd78d5b-0c58-41fd-8c2d-931e74c814ab).
@@ -464,8 +484,56 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
  }; 
 }
 
-export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.TabComponent.Fields {
-    export type Tab = { 
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.Tabs.Fields {
+    export type TabItem = { 
+        fields?: { 
+            /**
+            * Represents the Details field (60830276-cf92-4489-9f64-9b3d761d49cf).
+            */
+            Details: Field<string>;
+
+            /**
+            * Represents the Title field (2106cadf-c6e8-41e3-af23-6e752666efb5).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.RenderingParameters.Fields {
+    export type Tabs = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.Tabs.Fields {
+    export type Tabs = { 
+        fields?: { 
+            /**
+            * Represents the Items field (01e4f805-ebb3-48fc-b517-5cc8e933cb54).
+            */
+            Items: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Title field (06c737ef-a522-42b6-a05c-e69abf5bca57).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.Tabs.Fields {
+    export type TabsFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Teasure.Fields {
+    export type Teasure = { 
         fields?: { 
             /**
             * Represents the Items field (e32961c9-5e61-4124-aa94-29d0be319373).
@@ -481,8 +549,8 @@ export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTempl
  }; 
 }
 
-export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.TabComponent.Fields {
-    export type TabItem = { 
+export namespace HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Teasure.Fields {
+    export type TeasureItem = { 
         fields?: { 
             /**
             * Represents the Address field (a7d531d7-5a99-428f-a5dc-4b1f40df6c7f).
