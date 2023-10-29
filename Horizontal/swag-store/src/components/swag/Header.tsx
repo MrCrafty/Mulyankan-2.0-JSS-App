@@ -1,4 +1,6 @@
-import { HZTLSWAG } from '.generated/templates/models/HZTLSWAG.Templates.Model';
+import { NextImage } from '@sitecore-jss/sitecore-jss-nextjs';
+import { HZTLSWAG } from '../../models/HZTLSWAG.Templates.Model';
+import Link from 'next/link';
 export type HeaderProps =
   HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields.Header;
 const Header = (props: HeaderProps) => {
@@ -10,58 +12,26 @@ const Header = (props: HeaderProps) => {
             <div>
               <div className="flex h-16 items-center justify-between">
                 <div className="hidden lg:flex lg:flex-1 lg:items-center">
-                  <a href="#">
-                    <span className="sr-only">Your Company</span>
-                    <img
-                      className="h-8 w-auto"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=white"
-                      alt=""
-                    />
-                  </a>
+                  <Link href="/">
+                    <span className="sr-only">Horizontal Swag Store</span>
+                    <NextImage field={props.fields.logo} className="h-12 w-auto" />
+                  </Link>
                 </div>
                 <div className="hidden h-full lg:flex">
                   <div className="inset-x-0 bottom-0 px-4">
                     <div className="flex h-full justify-center space-x-8">
-                      <div className="flex" data-headlessui-state="">
-                        <div className="relative flex">
-                          <button
-                            className="relative z-10 flex items-center justify-center text-sm font-medium text-white transition-colors duration-200 ease-out"
-                            type="button"
-                            aria-expanded="false"
-                            data-headlessui-state=""
-                            id="headlessui-popover-button-:R1ala6ukq:"
+                      {props.fields.headerLinks.map((itm2: any, index: number) => {
+                        console.log(itm2);
+                        return (
+                          <Link
+                            href={itm2.url}
+                            key={index}
+                            className="flex items-center text-sm font-medium text-white hover:text-rose-300"
                           >
-                            Women
-                            <span
-                              className="absolute inset-x-0 -bottom-px h-0.5 transition duration-200 ease-out"
-                              aria-hidden="true"
-                            ></span>
-                          </button>
-                        </div>
-                      </div>
-                      <div className="flex" data-headlessui-state="">
-                        <div className="relative flex">
-                          <button
-                            className="relative z-10 flex items-center justify-center text-sm font-medium text-white transition-colors duration-200 ease-out"
-                            type="button"
-                            aria-expanded="false"
-                            data-headlessui-state=""
-                            id="headlessui-popover-button-:R1cla6ukq:"
-                          >
-                            Men
-                            <span
-                              className="absolute inset-x-0 -bottom-px h-0.5 transition duration-200 ease-out"
-                              aria-hidden="true"
-                            ></span>
-                          </button>
-                        </div>
-                      </div>
-                      <a href="#" className="flex items-center text-sm font-medium text-white">
-                        Company
-                      </a>
-                      <a href="#" className="flex items-center text-sm font-medium text-white">
-                        Stores
-                      </a>
+                            {itm2.fields.Title.value}
+                          </Link>
+                        );
+                      })}
                     </div>
                   </div>
                 </div>
