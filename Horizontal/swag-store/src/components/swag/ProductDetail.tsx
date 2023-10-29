@@ -5,7 +5,6 @@ export type ProductDetailProps =
 const ProductDetail = (props: ProductDetailProps) => {
   return (
     <>
-      <h1>{props.fields?.Title.value}</h1>
       <div className="bg-white">
         <div className="pt-6"></div>
       </div>
