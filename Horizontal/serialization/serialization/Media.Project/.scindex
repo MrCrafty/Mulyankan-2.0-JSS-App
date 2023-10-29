@@ -1,0 +1,145 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\accessories.yml
+ID: "6fdc6e70-5cd2-4d9a-9f19-fcc98f8ad4df"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/accessories"
+Signature: GPgE0fTXiA3uasXRoN9ghjeJI9LO7XXF1dgc/S/JXVQ=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project.yml
+ID: "90ae357f-6171-4ea9-808c-5600b678f726"
+Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project
+Signature: YFguf3OD9N56b6JhZ55hXT0+KuC8x/LWE44p6U9LNfI=
+Modified: 638340835110271058
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\mousepad.yml
+ID: "7c334cfe-350d-4dc1-953e-dd14855c48f3"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/mousepad"
+Signature: RPsQlQLmeMUkESEyYLkHsCavmzbuSI59TGrVcXnSJfc=
+Modified: 638341526418298268
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal.yml
+ID: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Horizontal
+Signature: T3VZlk4Rq8gDwHUAC9VnsCc9xK0kAJx72cb4xflsUJY=
+Modified: 638341521068875974
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\tshirt.yml
+ID: "c764ceaa-ce4e-4956-9971-59a32fcdaba4"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/tshirt"
+Signature: XvcFIhE+5BHZ5Dlu/zpX8SbnEWNUhtT0DonoWOdyFDQ=
+Modified: 638341526418610750
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\shared.yml
+ID: "c1eecd04-6f22-48a4-baac-a15e4d4c197d"
+Parent: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Horizontal/shared
+Signature: T3VZlk4Rq8gDwHUAC9VnsCc9xK0kAJx72cb4xflsUJY=
+Modified: 638341521068875974
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\waterbottle.yml
+ID: "4bd1fc3b-64cf-45cb-9eb6-2a9dcdbe437f"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/waterbottle"
+Signature: Dfs8ch4pdUt/Lg5zt45yvx3/GU2NKAcJDHQCUsK021U=
+Modified: 638341526418610750
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store.yml
+ID: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
+Parent: "c29514dd-ad39-4cad-abdd-94f8d758029e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/Horizontal/swag-store"
+Signature: I/v9deH9Y43f1lbyUrutyBKKo0c+/qa7MLocmLDAHso=
+Modified: 638341521068875974
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\penstand\diary.yml
+ID: "0499e3ea-2c15-4bfa-aac9-615c78b8ebff"
+Parent: "43a4edad-3738-4cdf-a44a-0bf5fa3b780c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/penstand/diary"
+Signature: Uo1BVATIpl0UUdEBtNjF7WKsgTxBsEjrUzMOcdpkmLM=
+Modified: 638341526418766995
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails.yml
+ID: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Parent: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails"
+Signature: EE6phMljx4FjFAQYGnQe9H362q+D6wopHBx+YLN2A60=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps.yml
+ID: "b30ed456-8377-494a-9da9-840d1dab833c"
+Parent: "d233fab0-c6e0-4ee8-b2af-c899f7776bf3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/Sitemaps"
+Signature: xbjpPAwkt2vFcrmleAkG7n9TFFrzPHLNgrv45vtTgLQ=
+Modified: 638341526418766995
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\Bag.yml
+ID: "65577366-4161-4de4-80e3-cf892512aa6f"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/Bag"
+Signature: NuRY9/E6yczmucBcrjoMVc19CvuFifrxRuhwCTc9rp0=
+Modified: 638341526418298268
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\penstand.yml
+ID: "43a4edad-3738-4cdf-a44a-0bf5fa3b780c"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/penstand"
+Signature: 0pas+tZ9Z0HtjwV7a1K8R/GGN0846A120yEvYrngY2M=
+Modified: 638341526418454489
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\Shoes.yml
+ID: "966d0e48-bdf0-4969-8e3f-eb9bd544df7c"
+Parent: "6a1b82ed-4d6d-4761-8be2-8472c9916373"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/Shoes"
+Signature: hIIftsL89vnIzEGOVkBNmo4VExdC2UEzKRJ1FQng/SE=
+Modified: 638341526418610750
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\Sitemaps\sitemap.yml
+ID: "8d0d6db2-9a9f-4a43-9aa8-568ef715349e"
+Parent: "b30ed456-8377-494a-9da9-840d1dab833c"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/Sitemaps/sitemap"
+Signature: 4ryBjFxedGla5NxYV6rucfDodEuIq2pmeVOfp+xo1qo=
+Modified: 638341526418610750
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\BED\serialization\serialization\Media.Project\Project\Horizontal\swag-store\CategoryThumbnails\mousepad\pen.yml
+ID: "2705eb7e-e712-41a0-b0bc-0b05dd82f0c3"
+Parent: "7c334cfe-350d-4dc1-953e-dd14855c48f3"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Horizontal/swag-store/CategoryThumbnails/mousepad/pen"
+Signature: G7EHIaqdQjqu0cQlFhIcexMFZoI9HGOl3nehVXtpBHk=
+Modified: 638341526418610750

@@ -1,0 +1,71 @@
+﻿---
+ID: "7554723d-910b-449f-bd68-d82f4942f2a8"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Categories"
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Categories
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query($datasource: String, $language: String!) {
+      # path can be an item tree path or GUID-based id
+      item(path: $datasource, language: $language) {
+        # items can be cast to a Template type with inline fragments
+        # fields can be cast to a Field type with inline fragments
+        field(name: "Title") {
+          ... on TextField {
+            value
+          }
+        }
+        children {
+          results {
+            id
+            title: field(name: "Title") {
+              ... on TextField {
+                value
+              }
+            }
+            thumbnail: field(name: "Thumbnail") {
+              ... on ImageField {
+                jsonValue
+              }
+            }
+            url {
+              url
+            }
+          }
+        }
+      }
+    }
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{6C8BE422-A95B-4E53-B7F2-E60B6AFEB4B1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T113028Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acee4ab1-b428-4ba9-b1a8-68ef2759c563"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T123402Z

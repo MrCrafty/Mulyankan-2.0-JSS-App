@@ -1,0 +1,50 @@
+﻿---
+ID: "f96163d0-7bc3-473d-9ba3-ab4aefd585dc"
+Parent: "e36eccca-e6d6-425e-9de2-e7cb7563e376"
+Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/apparels/Shoes"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2236238C-6691-4E16-A891-ED454AE877A8}"
+          p:after="r[@uid='{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}']"
+          s:ds="{8A1E74BC-FD97-4A84-A35A-DBA529198473}"
+          s:id="{8AD42913-A949-4385-8825-DC9234A3B7C5}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T144141Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Shoes
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9aff803-210f-4c1d-8c4e-7863653aeb48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T144502Z
+    - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
+      Hint: Title
+      Value: Shoes

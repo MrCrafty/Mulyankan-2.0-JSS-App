@@ -1,0 +1,56 @@
+﻿---
+ID: "3086d57e-ec9f-4218-9576-4eefa839256c"
+Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
+Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/accessories"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2DB96EAE-CD18-4A62-B2CB-F29785F3528C}"
+          p:after="r[@uid='{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}']"
+          s:id="{56488DB3-C0CD-48B6-8F8A-FA6139B6CC56}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="Headless-main" />
+        <r
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Accessories
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T100836Z
+    - ID: "3db7db4a-2224-4fae-9199-fa9fa735af49"
+      Hint: Title
+      Value: accessories
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Productivity
+    - ID: "55a816a3-e23a-4816-b183-9786b42a4088"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{966D0E48-BDF0-4969-8E3F-EB9BD544DF7C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60de7c3f-04c4-4e13-958a-5e3a8edb072b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T145127Z
