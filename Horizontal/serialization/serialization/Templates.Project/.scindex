@@ -1,0 +1,343 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project.yml
+ID: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Parent: "3c1715fe-6a13-4fcf-845f-de308ba9741d"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project
+Signature: HuhppE04RxjJTAch3G4hnfXx5kEg3H6ep8lqUxCPisE=
+Modified: 638341521069500996
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal.yml
+ID: "22554a44-42f5-4724-b966-4fec80537194"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Horizontal
+Signature: Wnjr85N2zQ8hGD8wIYhocG+P0zfB3XGx4UWni9OOwgI=
+Modified: 638341521069500996
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\CategoryDetail.yml
+ID: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/CategoryDetail
+Signature: hGoYuf4225iCIjR8O9irFFwspoKG+yUKznwOhRBW94s=
+Modified: 638341526417985756
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Headless Site.yml
+ID: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Headless Site
+Signature: Ehn1qdQ8Mr40xMcoxzHPf3L9moujDb/BWOpgOEwz25c=
+Modified: 638341521069500996
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Headless Tenant.yml
+ID: "7814ccf8-08cd-4ca4-8cee-4ddc5a7198ed"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Headless Tenant
+Signature: TCLJ890tpUAwOwbXeqcTj1Dy4dzsfFUMVm7ZP107heE=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\JSS Settings.yml
+ID: "1beb38a4-bf79-48c2-ba2d-68a29e505d39"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/JSS Settings
+Signature: uRSDtg8Z6mhggc4CH4UGsezg3sbAuvIRoc7rx9Ltp/0=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page Design Folder.yml
+ID: "cb514212-cb2d-463b-9aa1-68b4b06f9c60"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Page Design Folder
+Signature: xqTqTf7BWYwDj+FLMOoWg5+7O4hooEKAwsowOf2Cpa8=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page Designs.yml
+ID: "57ec5a42-d06d-4856-a95b-87717ae605c1"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Page Designs
+Signature: 2cRfu4hptdqRkb2hZtyoqjm8xICT77xplugCgGODKE4=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page.yml
+ID: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Page
+Signature: 09efnc67cLrAxlzHZcfk41sOFS4E+KJi7dyfneLXvbQ=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Partial Design Folder.yml
+ID: "633e154e-7410-4b20-b1e4-ff4d1b71dcdd"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Partial Design Folder
+Signature: xuk2PvIiPHjp4tfoDjqg+sHTDRFGji/mkZ7lbSnr1KA=
+Modified: 638341521069783172
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Partial Designs.yml
+ID: "80687388-c6be-41d3-bc0a-86916748ea4d"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Partial Designs
+Signature: S1M48cWELEPSBsfLt6ySoB5KA2ooaLTEBKi2M1KedGI=
+Modified: 638341521069818771
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail.yml
+ID: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail
+Signature: xplycJ+ZFM6U/HQPBaaJmt0sIf8z3AQU6JIA9AmeoOU=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Tab.yml
+ID: "eae8a215-fec0-48ca-ab5c-af3bb8f12dae"
+Parent: "22554a44-42f5-4724-b966-4fec80537194"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Horizontal/Tab
+Signature: 5o2/9GMA85DzizKhbVTeGNmvnM230qR7AxvTVcYbjiE=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\CategoryDetail\Content.yml
+ID: "c0416949-78b5-41af-a469-3241f1600e95"
+Parent: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Horizontal/CategoryDetail/Content
+Signature: P7cY5nlgAMCXzMref75YOZM1TgO6HestMhkDC6ROz24=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\CategoryDetail\__Standard Values.yml
+ID: "a46165a2-9bed-484d-9b64-4a5c393b8ab5"
+Parent: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
+Path: /sitecore/templates/Project/Horizontal/CategoryDetail/__Standard Values
+Signature: cFeM8sGAi6WU6crmWbasV384UwSm4Wm2N3ScChzsYic=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Headless Site\__Standard Values.yml
+ID: "e4a09835-7802-4d6a-8450-d3b33504e0a6"
+Parent: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
+Template: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
+Path: /sitecore/templates/Project/Horizontal/Headless Site/__Standard Values
+Signature: m4evj5vMKZdQA8MDoIe5hE2snvHTW1wZnX7lID3pXCQ=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Headless Tenant\__Standard Values.yml
+ID: "54bd0278-c3f6-421f-92cd-04fae6619304"
+Parent: "7814ccf8-08cd-4ca4-8cee-4ddc5a7198ed"
+Template: "7814ccf8-08cd-4ca4-8cee-4ddc5a7198ed"
+Path: /sitecore/templates/Project/Horizontal/Headless Tenant/__Standard Values
+Signature: 4qgjQFQpYlVfrN6/ebtAwRqGFU39pbKD9OFVvQ/o8J8=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\JSS Settings\__Standard Values.yml
+ID: "7a8bfbd8-2cd0-47af-bf7f-27d000b670a6"
+Parent: "1beb38a4-bf79-48c2-ba2d-68a29e505d39"
+Template: "1beb38a4-bf79-48c2-ba2d-68a29e505d39"
+Path: /sitecore/templates/Project/Horizontal/JSS Settings/__Standard Values
+Signature: rP7JxSbZmjr9ENRGpa0Bf1WpUyOX/0qYrgCTmIm/YS0=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page\Content.yml
+ID: "37bb8f2b-2c04-4982-8ac0-3c3e11846420"
+Parent: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Horizontal/Page/Content
+Signature: P7cY5nlgAMCXzMref75YOZM1TgO6HestMhkDC6ROz24=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page\__Standard Values.yml
+ID: "39fcd159-6f12-4116-9744-0ebe80b8f5ef"
+Parent: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: /sitecore/templates/Project/Horizontal/Page/__Standard Values
+Signature: EbpUvFScfRWdICJRKh7wYy9Dgy8ZrcQ3Lff03KkfZGw=
+Modified: 638341521069783172
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page Design Folder\__Standard Values.yml
+ID: "6d251f2c-ede8-438d-9e99-7276c5ce0b06"
+Parent: "cb514212-cb2d-463b-9aa1-68b4b06f9c60"
+Template: "cb514212-cb2d-463b-9aa1-68b4b06f9c60"
+Path: /sitecore/templates/Project/Horizontal/Page Design Folder/__Standard Values
+Signature: YuXR57M4TqBBXkAUN1Er6Dm/5gbSMM9ADcHTAkokQao=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page Designs\__Standard Values.yml
+ID: "504ac890-8abd-4ab3-992a-8093b1939930"
+Parent: "57ec5a42-d06d-4856-a95b-87717ae605c1"
+Template: "57ec5a42-d06d-4856-a95b-87717ae605c1"
+Path: /sitecore/templates/Project/Horizontal/Page Designs/__Standard Values
+Signature: YdyPI6qXqF50Xds4Ud0TZrolC3jY0zfaVOhh+CZ5VX0=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Partial Design Folder\__Standard Values.yml
+ID: "8242a4d9-c379-42e6-a7c9-840dbcefc87c"
+Parent: "633e154e-7410-4b20-b1e4-ff4d1b71dcdd"
+Template: "633e154e-7410-4b20-b1e4-ff4d1b71dcdd"
+Path: /sitecore/templates/Project/Horizontal/Partial Design Folder/__Standard Values
+Signature: jKR0r9QdHGJnUIrJKjzJQRxYhvQgq4G6P8f6DtVBBOk=
+Modified: 638341521069783172
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Partial Designs\__Standard Values.yml
+ID: "7bc9bffc-998b-4230-a438-33576bee8f15"
+Parent: "80687388-c6be-41d3-bc0a-86916748ea4d"
+Template: "80687388-c6be-41d3-bc0a-86916748ea4d"
+Path: /sitecore/templates/Project/Horizontal/Partial Designs/__Standard Values
+Signature: kMdlXo4b7EJsyOHDEoFrfqvh0FeS040r4Q+8Gl790jM=
+Modified: 638341521069818771
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Content.yml
+ID: "0634f40a-c5cd-4f2c-9e90-a8a1ed8188f9"
+Parent: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Content
+Signature: P7cY5nlgAMCXzMref75YOZM1TgO6HestMhkDC6ROz24=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Product detail.yml
+ID: "ade25c1b-9136-43d2-b932-41cebf4ab766"
+Parent: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Product detail
+Signature: v0YTqBkC5ubBXDcam1FYIohAb/kwhH8kyuuJzV0DJBY=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\__Standard Values.yml
+ID: "26ef1739-67bc-4d78-aa11-634363cb7f3b"
+Parent: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/__Standard Values
+Signature: GVKtPB5niLXQncIC9+FEvabh0GGYqvPt5+KyLV4aiuw=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Tab\__Standard Values.yml
+ID: "e5ac56b9-de56-458a-92eb-dce1c50e7395"
+Parent: "eae8a215-fec0-48ca-ab5c-af3bb8f12dae"
+Template: "eae8a215-fec0-48ca-ab5c-af3bb8f12dae"
+Path: /sitecore/templates/Project/Horizontal/Tab/__Standard Values
+Signature: DLShAWeGUCS3AMI5wt1mjMKmQyxxUxJfUVSZmMKzJeo=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\CategoryDetail\Content\Content.yml
+ID: "9601bcda-be54-449d-a6bd-505b944045e1"
+Parent: "c0416949-78b5-41af-a469-3241f1600e95"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/CategoryDetail/Content/Content
+Signature: CkYCzVjCYk0RtPbZ5c3S67LwN9r/33HLx8VtO5oU1d4=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\CategoryDetail\Content\Title.yml
+ID: "3db7db4a-2224-4fae-9199-fa9fa735af49"
+Parent: "c0416949-78b5-41af-a469-3241f1600e95"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/CategoryDetail/Content/Title
+Signature: i60CLT6FgWNli9JI9CQqd8SvyQP1a15wjIcvH/oAQGA=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page\Content\Content.yml
+ID: "d96602ce-7ffe-47cd-ab36-742e595c9471"
+Parent: "37bb8f2b-2c04-4982-8ac0-3c3e11846420"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/Page/Content/Content
+Signature: VjawdXj2SEZ+oZYIHGcy6hKdtMmDTKSa4Xd4mnekOM0=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\Page\Content\Title.yml
+ID: "83d8202b-faf2-4a4f-af90-ef8f05b10abb"
+Parent: "37bb8f2b-2c04-4982-8ac0-3c3e11846420"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/Page/Content/Title
+Signature: udRpwDJcZy5qIGpS9sdmYDl+395UVbUoHUoGcqtsL38=
+Modified: 638341521069658064
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Content\Content.yml
+ID: "081c705a-7f07-4e2e-a3a5-d602a0b4f270"
+Parent: "0634f40a-c5cd-4f2c-9e90-a8a1ed8188f9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Content/Content
+Signature: CkYCzVjCYk0RtPbZ5c3S67LwN9r/33HLx8VtO5oU1d4=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Content\Title.yml
+ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
+Parent: "0634f40a-c5cd-4f2c-9e90-a8a1ed8188f9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Content/Title
+Signature: i60CLT6FgWNli9JI9CQqd8SvyQP1a15wjIcvH/oAQGA=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Product detail\Except.yml
+ID: "e3540d36-ba94-4274-a498-a9d4f76a75b5"
+Parent: "ade25c1b-9136-43d2-b932-41cebf4ab766"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Product detail/Except
+Signature: BJ3u3sJsVVAJ9ZabC0VC28XXYzKZH2TL1rZB1d/Ee5E=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Product detail\Images.yml
+ID: "e79560a0-e221-4476-a3ea-705e3363b6c4"
+Parent: "ade25c1b-9136-43d2-b932-41cebf4ab766"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Product detail/Images
+Signature: T3LW3Z64UtDEFuiO2DMT62qB7kukoMmOUK58XX4Au+4=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Product detail\Price.yml
+ID: "2dd78d5b-0c58-41fd-8c2d-931e74c814ab"
+Parent: "ade25c1b-9136-43d2-b932-41cebf4ab766"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Product detail/Price
+Signature: dhhp7JT5xTTSOpR4JkSi+0BRLDPLNdrm+m5Dqv2vbgo=
+Modified: 638341526418142011
+---
+File: |
+  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Templates.Project\Project\Horizontal\ProductDetail\Product detail\RelatedProducts.yml
+ID: "c2642f65-25be-4d2f-a277-48d2ce6d29b8"
+Parent: "ade25c1b-9136-43d2-b932-41cebf4ab766"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/Product detail/RelatedProducts
+Signature: JVe9CJJtP0GaFx3G/7Y+lBBzF6iRCr5AlDa8z4xK+HY=
+Modified: 638341526418142011

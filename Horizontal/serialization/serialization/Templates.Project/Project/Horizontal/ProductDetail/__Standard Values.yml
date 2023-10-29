@@ -1,0 +1,66 @@
+﻿---
+ID: "26ef1739-67bc-4d78-aa11-634363cb7f3b"
+Parent: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Path: /sitecore/templates/Project/Horizontal/ProductDetail/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: WordProcessing/32x32/align_justify.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {093E5A0E-7885-49FA-87DC-8B3DD0C7444D}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          ds="{F58618AB-E3CD-4A14-9949-C1EA0E05288F}"
+          id="{50B0BF19-02C3-43FA-96D3-D0CB226EADBD}"
+          par=""
+          ph="headless-header"
+          uid="{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}"
+          ccb="Clear on publish" />
+        <r
+          ds="{53E83FE9-8AAB-4A85-AC4E-5FA1B4177194}"
+          id="{4665555D-E27B-4B16-9A8D-122532A7A014}"
+          par=""
+          ph="headless-footer"
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T082229Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de719e0b-1933-4d9c-92cc-b92df74e0192"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T133313Z
+    - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
+      Hint: Title
+      Value: $name

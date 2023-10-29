@@ -1,0 +1,29 @@
+﻿---
+ID: "61921e43-e876-4f7e-95dc-4b44b58e05ab"
+Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home/SpecialEvents"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T100147Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SpecialEvents
+    - ID: "83d8202b-faf2-4a4f-af90-ef8f05b10abb"
+      Hint: Title
+      Value: SpecialEvents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fede1106-4f3a-4e50-9671-7c217ce1ff43"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T100147Z

@@ -1,0 +1,54 @@
+﻿---
+ID: "2ff6a300-ecc7-4290-ab62-ca3cd6817f23"
+Parent: "db54c92a-40d6-4e05-a8f8-0fffe5bfe1a5"
+Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/productivity/pen"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{153E83BD-8C9B-473C-85FA-B2BD4C2DE6B5}"
+          p:after="r[@uid='{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}']"
+          s:ds="{FE67552C-15B2-4220-AD9E-7260523FC39F}"
+          s:id="{8AD42913-A949-4385-8825-DC9234A3B7C5}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T101504Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3115008-585d-45b8-b70f-7c42cee44b67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T143926Z
+    - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
+      Hint: Title
+      Value: 
