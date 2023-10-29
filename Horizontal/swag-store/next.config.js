@@ -31,8 +31,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'xm1.cm'
-      
+        hostname: 'xm1.cm'   
       },
     ],
   },
@@ -61,7 +60,7 @@ const nextConfig = {
       {
         source: '/sitecore/service/:path*',
         destination: `${jssConfig.sitecoreApiHost}/sitecore/service/:path*`,
-      }, 
+      },
     ];
   },
 };
@@ -69,4 +68,4 @@ const nextConfig = {
 module.exports = () => {
   // Run the base config through any configured plugins
   return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
-}
+};
