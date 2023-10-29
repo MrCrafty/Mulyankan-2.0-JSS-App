@@ -1,8 +1,8 @@
 ﻿---
-ID: "c4f0c142-2e5a-41ed-87ea-6936f844b27f"
-Parent: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
-Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
-Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace/PenStand"
+ID: "287027f6-5b02-459b-8ce8-a39a4158ef3d"
+Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
+Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
+Path: "/sitecore/content/Horizontal/swag-store/Home/Stores"
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
@@ -12,13 +12,11 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{2260ADBB-CEEA-4DCE-BF57-B6BEED938BF5}"
+          uid="{DBC620B3-E7E2-44EA-919D-34A0C2A6B2DB}"
           p:after="r[@uid='{AC1CBC7A-C23F-486A-AD7A-2AC778E4766D}']"
-          s:ds="{45EACAC2-607E-4612-9B61-8B91B60515FA}"
-          s:id="{8AD42913-A949-4385-8825-DC9234A3B7C5}"
-          s:par=""
-          s:ph="headless-main"
-          s:ccb="Clear on publish" />
+          s:id="{8FD56CBA-5072-4717-BE45-6F10BC778AC2}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
         <r
           uid="{CAF06D46-D1CB-49B6-BCB0-9352D57B6CCF}"
           p:after="*[1=2]" />
@@ -31,20 +29,20 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T105509Z
+      Value: 20231029T060709Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: MousePad
+      Value: Stores
+    - ID: "83d8202b-faf2-4a4f-af90-ef8f05b10abb"
+      Hint: Title
+      Value: Stores
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "180494ad-cafe-4766-9544-55ebc4ae5c36"
+      Value: "66fa7525-f023-4adb-b946-4f5d2f1e8dbc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T143435Z
-    - ID: "f2c9a2ec-0b78-464d-9d13-a57d9b730eb3"
-      Hint: Title
-      Value: Penstand
+      Value: 20231029T071249Z

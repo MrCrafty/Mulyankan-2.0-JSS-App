@@ -1,8 +1,8 @@
 ﻿---
-ID: "99bf86ff-7cab-44be-aa29-0c6543d99062"
-Parent: "0543696f-61be-4dbf-b562-2b7141e31778"
+ID: "186fcd35-faec-4813-bd98-644befdf8877"
+Parent: "eae8a215-fec0-48ca-ab5c-af3bb8f12dae"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Feature/swag-store/Data source Template/ProductListing/Data"
+Path: "/sitecore/templates/Feature/swag-store/Data source Template/Tab Component/TabItem/Content"
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T064121Z
+      Value: 20231029T050524Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f366c426-10a3-46f1-82c6-82703574a345"
+      Value: "ebe7bbc6-41da-4a3b-80c3-576ed1eb1601"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\npatel
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T070626Z
+      Value: 20231029T064853Z

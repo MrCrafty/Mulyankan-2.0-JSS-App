@@ -2,7 +2,7 @@
 ID: "e6cdf951-0f5f-45a9-84b8-09891b73d795"
 Parent: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
-Path: "/sitecore/content/Horizontal/swag-store/Home/products/Workspace/MousePad"
+Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace/MousePad"
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
