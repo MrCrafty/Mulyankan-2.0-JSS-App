@@ -27,7 +27,15 @@ const nextConfig = {
     // prefixed path e.g. `/styleguide`.
     defaultLocale: jssConfig.defaultLanguage,
   },
-  
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'xm1.cm'
+      
+      },
+    ],
+  },
   // Enable React Strict Mode
   reactStrictMode: true,
 
