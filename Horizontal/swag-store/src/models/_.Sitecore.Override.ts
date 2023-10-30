@@ -12,6 +12,7 @@ import {
   Item,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 
+// eslint-disable-next-line @typescript-eslint/no-namespace
 export namespace Jss.Override {
   export type ItemEx = Item & {
     id?: string;
@@ -46,4 +47,3 @@ export namespace Jss.Override {
     };
   };
 }
-

@@ -8,8 +8,8 @@ const Tabs = ({ fields }: TabsProps) => {
   console.log(fields);
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-6">
-      {/* <h2 className="text-3xl text-center">{fields?.Title.value}</h2>
-      <Tab.Group as="div">
+      <h2 className="text-3xl text-center">{fields?.Title.value}</h2>
+      {/* <Tab.Group as="div">
         <div className="border-b border-gray-200">
           <Tab.List className="-mb-px flex space-x-8">
             {fields?.Items.map((item, index) => (
@@ -31,13 +31,13 @@ const Tabs = ({ fields }: TabsProps) => {
         </div>
         <Tab.Panels as={Fragment}>
           {fields?.Items.map((item, index) => (
-            <Tab.Panel>
+            <Tab.Panel key={index}>
               <h3 key={index} className="sr-only">
                 {item?.name}
               </h3>
               {item.fields.Type?.value === 'review' && (
                 <>
-                  {item?.fields?.Items.map((itm, idx) => {
+                  {item?.fields?.Items.map((itm, idx: number) => {
                     return (
                       <div key={idx} className="flex space-x-4 text-sm text-gray-500">
                         <div className="flex-none py-10">
@@ -67,7 +67,7 @@ const Tabs = ({ fields }: TabsProps) => {
               {item.fields.Type?.value === 'faq' && (
                 <>
                   <dl>
-                    {item.fields.Items.map((itm, idx) => {
+                    {item.fields.Items.map((itm, idx: number) => {
                       return (
                         <Fragment key={idx}>
                           <dt className="mt-10 font-medium text-gray-900">

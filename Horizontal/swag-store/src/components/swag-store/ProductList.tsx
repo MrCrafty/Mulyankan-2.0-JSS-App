@@ -13,7 +13,7 @@ const ProductList = (props: ProductDetailsProp) => {
           <div className="-my-2">
             <div className="relative box-content h-80 overflow-x-auto py-2 xl:overflow-visible">
               <div className="absolute flex space-x-8 px-4 sm:px-6 lg:px-8 xl:relative xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-x-0 xl:px-0">
-                {props.fields?.RelatedProducts?.map((itm: any, index: number) => {
+                {props.fields?.RelatedProducts?.map((itm, index: number) => {
                   return (
                     <a
                       key={index}

@@ -39,8 +39,8 @@ const Input = ({
         htmlFor="email"
         onClick={() => {
           if (inputLabel != null) {
-            //@ts-ignore
-            inputLabel?.current?.focus();
+            // inputLabel?.current?.focus(); commented this for deployment
+            inputLabel?.current;
           }
         }}
         className={`absolute cursor-text ${
