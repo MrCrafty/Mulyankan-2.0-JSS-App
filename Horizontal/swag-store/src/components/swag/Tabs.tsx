@@ -1,21 +1,20 @@
 import { HZTLSWAG } from 'src/models/HZTLSWAG.Templates.Model';
-import { Tab } from '@headlessui/react';
-import clsx from 'clsx';
-import { Fragment } from 'react';
-import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+// import { Tab } from '@headlessui/react';
+// import clsx from 'clsx';
+// import { Fragment } from 'react';
 
 type TabsProps = HZTLSWAG.Templates.Sitecore.templates.swagstore.Tabs.Fields.Tabs;
 const Tabs = ({ fields }: TabsProps) => {
   console.log(fields);
-  const items = fields?.Items;
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-6">
-      <h2 className="text-3xl text-center">{fields?.Title.value}</h2>
+      {/* <h2 className="text-3xl text-center">{fields?.Title.value}</h2>
       <Tab.Group as="div">
         <div className="border-b border-gray-200">
           <Tab.List className="-mb-px flex space-x-8">
             {fields?.Items.map((item, index) => (
               <Tab
+                key={index}
                 className={({ selected }) =>
                   clsx(
                     selected
@@ -25,7 +24,7 @@ const Tabs = ({ fields }: TabsProps) => {
                   )
                 }
               >
-                {item.fields.Title.value}
+                {item?.name}
               </Tab>
             ))}
           </Tab.List>
@@ -33,10 +32,12 @@ const Tabs = ({ fields }: TabsProps) => {
         <Tab.Panels as={Fragment}>
           {fields?.Items.map((item, index) => (
             <Tab.Panel>
-              <h3 className="sr-only">{item.fields.Title.value}</h3>
+              <h3 key={index} className="sr-only">
+                {item?.name}
+              </h3>
               {item.fields.Type?.value === 'review' && (
                 <>
-                  {item.fields.Items.map((itm, idx) => {
+                  {item?.fields?.Items.map((itm, idx) => {
                     return (
                       <div key={idx} className="flex space-x-4 text-sm text-gray-500">
                         <div className="flex-none py-10">
@@ -86,7 +87,7 @@ const Tabs = ({ fields }: TabsProps) => {
             </Tab.Panel>
           ))}
         </Tab.Panels>
-      </Tab.Group>
+      </Tab.Group> */}
     </div>
   );
 };

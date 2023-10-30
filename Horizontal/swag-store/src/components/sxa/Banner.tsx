@@ -28,7 +28,7 @@ const Banner = ({ fields }: BannerProps) => {
           {fields?.ctaButton.value.href != '' ? (
             <div className="w-full flex justify-center">
               <Link
-                href={fields?.ctaButton.value}
+                href={fields?.ctaButton?.value?.href as string}
                 className="bg-blue-500 py-1.5 px-3 md:py-2.5 md:px-4 rounded-md lg:text-xl text-white hover:bg-blue-700 transition-all"
               >
                 Learn More

@@ -2,7 +2,7 @@ import { NextImage } from '@sitecore-jss/sitecore-jss-nextjs';
 import { HZTLSWAG } from '../../models/HZTLSWAG.Templates.Model';
 import Link from 'next/link';
 export type HeaderProps =
-  HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields.Header;
+  HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.GlobalComponents.Fields.Header;
 const Header = (props: HeaderProps) => {
   return (
     <>
@@ -14,13 +14,13 @@ const Header = (props: HeaderProps) => {
                 <div className="hidden lg:flex lg:flex-1 lg:items-center">
                   <Link href="/">
                     <span className="sr-only">Horizontal Swag Store</span>
-                    <NextImage field={props.fields.logo} className="h-12 w-auto" />
+                    <NextImage field={props?.fields?.logo} className="h-12 w-auto" />
                   </Link>
                 </div>
                 <div className="hidden h-full lg:flex">
                   <div className="inset-x-0 bottom-0 px-4">
                     <div className="flex h-full justify-center space-x-8">
-                      {props.fields.headerLinks.map((itm2: any, index: number) => {
+                      {props?.fields?.headerLinks.map((itm2, index) => {
                         console.log(itm2);
                         return (
                           <Link

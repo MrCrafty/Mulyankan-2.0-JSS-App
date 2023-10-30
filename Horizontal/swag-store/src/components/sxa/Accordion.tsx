@@ -44,7 +44,7 @@ const Accordion = ({ fields }: AccordionProps) => {
                   </span>
                 </Disclosure.Button>
               </h3>
-              <Disclosure.Panel as="div" className="prose prose-sm pb-6">
+              <Disclosure.Panel as="div">
                 {/* <ul role="list">
                   {detail.items.map((item) => (
                     <li key={item}>{item}</li>

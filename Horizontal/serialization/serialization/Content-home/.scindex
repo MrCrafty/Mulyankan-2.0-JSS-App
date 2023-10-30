@@ -1,181 +1,181 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store.yml
 ID: "8e208662-1c88-4075-a6c0-699fade6db3c"
 Parent: "d2638d10-0496-491b-90e8-49d6f632ae99"
 Template: "b2796dc0-ebc7-4d14-9618-02ce25f8456b"
 Path: "/sitecore/content/Horizontal/swag-store"
 Signature: +xzUTWX9whKnxFGrNzdGxMIqYCwfzkJrKrx9IMo5fJY=
-Modified: 638341663087996336
+Modified: 638342562240539173
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home.yml
 ID: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Parent: "8e208662-1c88-4075-a6c0-699fade6db3c"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home"
 Signature: xmYQX9O2r/s6pyz4a5O//t99HhQwZMLtDsLK47RdcyU=
-Modified: 638341663087996336
+Modified: 638342562240539173
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\FAQ.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\FAQ.yml
 ID: "fdc761bb-e7f0-415c-839c-117b0a9bbb0d"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/FAQ"
 Signature: 3DrMkuP3WSpWVy7eH/Un0HXCpShy6rUFKEMTtwpvmg8=
-Modified: 638341663087996336
+Modified: 638342562240539173
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Login.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Login.yml
 ID: "89d10b77-f80c-4b99-b103-a6fe65319706"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/Login"
 Signature: L4BbqloPO8k6e/lNJYN90iUVLK2r/cluJ6JrkJxPMdI=
-Modified: 638341663087996336
+Modified: 638342562240595875
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Products.yml
 ID: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products"
 Signature: Hz28vtKpgu96WPYBbqnMdXGBRMOocFAaQnwpSvb20cA=
-Modified: 638341663087996336
+Modified: 638342562240595875
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Profile.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Profile.yml
 ID: "16442fe2-bbf4-434b-8534-83aa5395926a"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/Profile"
 Signature: DWdQJwf1hJwX/dO5QHU+Zgn7Z2jSNonzcyaJUvL5zn4=
-Modified: 638341663087996336
+Modified: 638342562240640945
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\SpecialEvents.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\SpecialEvents.yml
 ID: "61921e43-e876-4f7e-95dc-4b44b58e05ab"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/SpecialEvents"
 Signature: 2ahgC58HMgY31NxsVhFxbCsjFK0l69aovkmbzRk+jDI=
-Modified: 638341663087996336
+Modified: 638342562240640945
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Stores.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Stores.yml
 ID: "287027f6-5b02-459b-8ce8-a39a4158ef3d"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/Stores"
 Signature: SRarEgWGl3QJ93KmJsTkf0vyeAe8bqAKa4oaolSgbpM=
-Modified: 638341663087996336
+Modified: 638342562240640945
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Swags.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\Swags.yml
 ID: "bf6b49dd-47f0-49e5-8881-18040347e413"
 Parent: "e67dc491-4c03-4030-95ea-62ca9581efc3"
 Template: "093e5a0e-7885-49fa-87dc-8b3dd0c7444d"
 Path: "/sitecore/content/Horizontal/swag-store/Home/Swags"
 Signature: 4SFsAee1y0jvOnmhYYJ19OHFR3hTvitt/J86EOZPAFk=
-Modified: 638341663088152594
+Modified: 638342562240640945
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\accessories.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\accessories.yml
 ID: "3086d57e-ec9f-4218-9576-4eefa839256c"
 Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/accessories"
 Signature: /ujhGlblHYa6xc4+2FZ/fyWPS4QvgHSX34PS++joJOE=
-Modified: 638341663088152594
+Modified: 638342562240754904
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels.yml
 ID: "e36eccca-e6d6-425e-9de2-e7cb7563e376"
 Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/apparels"
 Signature: b9K4Eo9DSDREMK2K7zW47XXdNrGHGrNzJDH3FtjW6jw=
-Modified: 638341663088152594
+Modified: 638342562240754904
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity.yml
 ID: "db54c92a-40d6-4e05-a8f8-0fffe5bfe1a5"
 Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/productivity"
 Signature: Xg9BXTznEltkqcJe0tJwu+xMIxnnewATl6mPBDtAH6g=
-Modified: 638341663088152594
+Modified: 638342562240840002
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\workspace.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\Workspace.yml
 ID: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Parent: "de2d9293-5888-4b31-9681-bbbd5294e0b0"
 Template: "bbe184da-9ce9-41ef-8ebd-a47d3f08c4c9"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace"
 Signature: TZQFVJMnWSNiZTCZHjBNkI1y1YyacOOA9HmDG2hFbqU=
-Modified: 638341663088152594
+Modified: 638342562240640945
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\accessories\Waterbottle.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\accessories\Waterbottle.yml
 ID: "ce6c0060-6942-4f7b-a11a-b51009a550c5"
 Parent: "3086d57e-ec9f-4218-9576-4eefa839256c"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/accessories/Waterbottle"
 Signature: mSBYsIM3L4HX9NgG/uVDFyhqYKIwIMiMS39v2e4iTX0=
-Modified: 638341663088152594
+Modified: 638342562240754904
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels\Shoes.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels\Shoes.yml
 ID: "f96163d0-7bc3-473d-9ba3-ab4aefd585dc"
 Parent: "e36eccca-e6d6-425e-9de2-e7cb7563e376"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/apparels/Shoes"
 Signature: QjjpxWLk+gbphhDEXBgO/jPu0prEBleUpBUbfcU7PqY=
-Modified: 638341663088152594
+Modified: 638342562240840002
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels\Tshirt.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\apparels\Tshirt.yml
 ID: "685bf8b7-29fd-481b-9ddd-35408a269754"
 Parent: "e36eccca-e6d6-425e-9de2-e7cb7563e376"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/apparels/Tshirt"
 Signature: pU2PL7HMdq22eeQtRvwVT2xTOCbczXuYIPaN7Om3yns=
-Modified: 638341663088152594
+Modified: 638342562240840002
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity\diary.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity\diary.yml
 ID: "93628a20-efb2-4565-92d2-9237a2f4d4ad"
 Parent: "db54c92a-40d6-4e05-a8f8-0fffe5bfe1a5"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/productivity/diary"
 Signature: e33JqVzpRvY9p2LLLwHC5MLOevRaRASGsUBP/DLYIo8=
-Modified: 638341663088152594
+Modified: 638342562240840002
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity\pen.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\productivity\pen.yml
 ID: "2ff6a300-ecc7-4290-ab62-ca3cd6817f23"
 Parent: "db54c92a-40d6-4e05-a8f8-0fffe5bfe1a5"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/productivity/pen"
 Signature: svDoqjjQuvmQIn8cib9OJ/GnGiq9YogXELnMbSh1D6c=
-Modified: 638341663088152594
+Modified: 638342562240912198
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\workspace\MousePad.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\Workspace\MousePad.yml
 ID: "e6cdf951-0f5f-45a9-84b8-09891b73d795"
 Parent: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace/MousePad"
 Signature: 7I5lxKd1+gv1WJihUjiity2d2/bvLdhj3mzfgWcPliA=
-Modified: 638341663088152594
+Modified: 638342562240739489
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\workspace\PenStand.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Content-home\swag-store\Home\products\Workspace\PenStand.yml
 ID: "c4f0c142-2e5a-41ed-87ea-6936f844b27f"
 Parent: "46ee52dc-64e5-4f00-a75d-c063885a3adc"
 Template: "8e811a74-e8af-41f6-8c91-a4ff3e24cdf2"
 Path: "/sitecore/content/Horizontal/swag-store/Home/products/workspace/PenStand"
 Signature: czjDFZ25sH6tmeG31qXimYxL/ELuYMqWd/zG+km16RQ=
-Modified: 638341663088152594
+Modified: 638342562240754904

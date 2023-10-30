@@ -47,7 +47,7 @@ const Carousel = ({ fields }: CarouselProps) => {
                   {Carousel.fields?.CTA.value.href != '' ? (
                     <div className="w-full flex justify-center">
                       <Link
-                        href={Carousel.fields?.CTA.value}
+                        href={Carousel.fields?.CTA.value?.href as string}
                         className="bg-blue-500 py-1.5 mt-2 px-3 md:py-2.5 md:px-4 rounded-md lg:text-xl text-white hover:bg-blue-700 transition-all"
                       >
                         Learn More

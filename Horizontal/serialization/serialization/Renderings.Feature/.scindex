@@ -1,163 +1,163 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature.yml
-ID: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
-Parent: "32566f0e-7686-45f1-a12f-d7260bd78bc3"
-Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
-Path: /sitecore/layout/Renderings/Feature
-Signature: qTyutRlTL3aamdH4hgQOpHSRpgKMneHGpy2wag0pAAo=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store.yml
-ID: "778f48ef-c117-4bf1-989d-5903772844bd"
-Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
-Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
-Path: "/sitecore/layout/Renderings/Feature/swag-store"
-Signature: 5AhNXf1nq7btv/BILCi/qdBgB9uASnlg4bMScYgiOXI=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Accordion.yml
-ID: "6ce3b990-4f91-4cbc-b0a5-90a3c73fc34a"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Accordion"
-Signature: ATwc3MPCvP96QhdQKyb0jlY52DHbO9YzlwWnMvLlxss=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Banner.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Banner.yml
 ID: "436f2b2c-b2e7-452f-a3ad-08e9bc89e2f3"
 Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Feature/swag-store/Banner"
 Signature: KSm2umcfAWs1mJA410lXklo8KhYS0to6eOMVLpfmqRo=
-Modified: 638341663087996336
+Modified: 638342562241857939
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Breadcrumb.yml
-ID: "56488db3-c0cd-48b6-8f8a-fa6139b6cc56"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Breadcrumb"
-Signature: QlYaDilaiHD5Z0k+AjBUidW1ZJA4HlZIrbqzHCkYBGE=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Carousel.yml
-ID: "af30a843-f127-4e92-877b-23d52a4d3dcf"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Carousel"
-Signature: 5cTF7NP3XM+MIHOYnRBc6WQcuBjX0ykCzPhT55fJ/E8=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Categories.yml
-ID: "7554723d-910b-449f-bd68-d82f4942f2a8"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Categories"
-Signature: AKxtzwW9wQqCGKsw3ox/rUvnO3gZN3mOFCnM3+qavV8=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\CategoryList.yml
-ID: "f720b2ab-edd6-4346-a6b8-2adfa5dd9f4f"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/CategoryList"
-Signature: hb+yXPoyZfqmugBxTDhlBVwebxvcrxRkDsYH4amw7cE=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\CategoryListingPage.yml
-ID: "cfebfa40-0792-464e-8e98-2abef876b9e4"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/CategoryListingPage"
-Signature: 16uX7n9SuBkKiN5hmoAlGjflFZ2bqRDVA4+31r/+2K4=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\ContentBlock.yml
-ID: "c25afad0-00a9-488f-8fbf-4ebab0945390"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/ContentBlock"
-Signature: 4v/NnCc0awefT/jxQkZz7ZSpSfwVWFHwRTRoe+WMhgE=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Footer.yml
-ID: "4665555d-e27b-4b16-9a8d-122532a7a014"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Footer"
-Signature: Z5yi9D5hZmvF77Cwfhudjz82dIoFX0Ep+ZDq5dKo1vc=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Gallery.yml
-ID: "88a3c4dd-9555-42e1-92bc-4ae3834bc1fc"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Gallery"
-Signature: qxb0yM9gz5xG7LjGcAuXvx67SasFb/yGxgXte4gKz9I=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Header.yml
-ID: "50b0bf19-02c3-43fa-96d3-d0cb226eadbd"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Header"
-Signature: XyX9kHACEX+88CxuaRba7CoJ4WrlXF3y7qyIXpc5HHE=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Login.yml
-ID: "c3a25578-d075-4374-a927-20a80fd02341"
-Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
-Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/swag-store/Login"
-Signature: whi0t3k+fvoH23yIgGhMwVaEOWLqgXbMhScOlKZUTR4=
-Modified: 638341663087996336
----
-File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\MediaComponent.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\MediaComponent.yml
 ID: "70cdbc52-fcfd-49c0-a0d0-98975494049d"
 Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Feature/swag-store/MediaComponent"
 Signature: qwn6NAJbKeKFQBrhmlLbDrlzBPoqHm81lpWYrDUam3w=
-Modified: 638341663087996336
+Modified: 638342562241960790
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\ProductDetail.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Categories.yml
+ID: "7554723d-910b-449f-bd68-d82f4942f2a8"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Categories"
+Signature: AKxtzwW9wQqCGKsw3ox/rUvnO3gZN3mOFCnM3+qavV8=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\CategoryListingPage.yml
+ID: "cfebfa40-0792-464e-8e98-2abef876b9e4"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/CategoryListingPage"
+Signature: 16uX7n9SuBkKiN5hmoAlGjflFZ2bqRDVA4+31r/+2K4=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\ContentBlock.yml
+ID: "c25afad0-00a9-488f-8fbf-4ebab0945390"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/ContentBlock"
+Signature: 4v/NnCc0awefT/jxQkZz7ZSpSfwVWFHwRTRoe+WMhgE=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Header.yml
+ID: "50b0bf19-02c3-43fa-96d3-d0cb226eadbd"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Header"
+Signature: XyX9kHACEX+88CxuaRba7CoJ4WrlXF3y7qyIXpc5HHE=
+Modified: 638342562241960790
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Login.yml
+ID: "c3a25578-d075-4374-a927-20a80fd02341"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Login"
+Signature: whi0t3k+fvoH23yIgGhMwVaEOWLqgXbMhScOlKZUTR4=
+Modified: 638342562241960790
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\ProductDetail.yml
 ID: "8ad42913-a949-4385-8825-dc9234a3b7c5"
 Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Feature/swag-store/ProductDetail"
 Signature: mMz9MuL+rBagQxbLR9PALvOL/zo5+hWSoINorSuLbsw=
-Modified: 638341663087996336
+Modified: 638342562241960790
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Tabs.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Footer.yml
+ID: "4665555d-e27b-4b16-9a8d-122532a7a014"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Footer"
+Signature: Z5yi9D5hZmvF77Cwfhudjz82dIoFX0Ep+ZDq5dKo1vc=
+Modified: 638342562241960790
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature.yml
+ID: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Parent: "32566f0e-7686-45f1-a12f-d7260bd78bc3"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature
+Signature: qTyutRlTL3aamdH4hgQOpHSRpgKMneHGpy2wag0pAAo=
+Modified: 638342562241760499
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store.yml
+ID: "778f48ef-c117-4bf1-989d-5903772844bd"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: "/sitecore/layout/Renderings/Feature/swag-store"
+Signature: 5AhNXf1nq7btv/BILCi/qdBgB9uASnlg4bMScYgiOXI=
+Modified: 638342562241760499
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Accordion.yml
+ID: "6ce3b990-4f91-4cbc-b0a5-90a3c73fc34a"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Accordion"
+Signature: ATwc3MPCvP96QhdQKyb0jlY52DHbO9YzlwWnMvLlxss=
+Modified: 638342562241856366
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Breadcrumb.yml
+ID: "56488db3-c0cd-48b6-8f8a-fa6139b6cc56"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Breadcrumb"
+Signature: QlYaDilaiHD5Z0k+AjBUidW1ZJA4HlZIrbqzHCkYBGE=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Carousel.yml
+ID: "af30a843-f127-4e92-877b-23d52a4d3dcf"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Carousel"
+Signature: 5cTF7NP3XM+MIHOYnRBc6WQcuBjX0ykCzPhT55fJ/E8=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\CategoryList.yml
+ID: "f720b2ab-edd6-4346-a6b8-2adfa5dd9f4f"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/CategoryList"
+Signature: hb+yXPoyZfqmugBxTDhlBVwebxvcrxRkDsYH4amw7cE=
+Modified: 638342562241873491
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Gallery.yml
+ID: "88a3c4dd-9555-42e1-92bc-4ae3834bc1fc"
+Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Feature/swag-store/Gallery"
+Signature: qxb0yM9gz5xG7LjGcAuXvx67SasFb/yGxgXte4gKz9I=
+Modified: 638342562241960790
+---
+File: |
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Tabs.yml
 ID: "30f7e628-377d-4a81-baff-ae50e87efa65"
 Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Feature/swag-store/Tabs"
 Signature: 2WOAmSIPdSzqRkFx/BJ6nRtNf9EYjFwik8Gjr9Iv/dk=
-Modified: 638341663087996336
+Modified: 638342562242032310
 ---
 File: |
-  C:\mulyankan\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Teasure.yml
+  C:\Users\hmithapara\Desktop\Mulyankan-2.0-JSS-App\Horizontal\serialization\serialization\Renderings.Feature\Feature\swag-store\Teasure.yml
 ID: "8fd56cba-5072-4717-be45-6f10bc778ac2"
 Parent: "778f48ef-c117-4bf1-989d-5903772844bd"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Feature/swag-store/Teasure"
 Signature: P61/aJYn8OIyWHdcYYRo254Q+XVn0uKj0SP3XG5BQMc=
-Modified: 638341663087996336
+Modified: 638342562242032310
