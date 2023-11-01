@@ -7,7 +7,7 @@ type BannerProps = HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTem
 const Banner = ({ fields }: BannerProps) => {
   console.log(fields);
   const BannerImg =
-    fields?.image.value?.src ||
+    // fields?.image.value?.src ||
     'https://frank-corgi-nice.ngrok-free.app' + fields?.image.value?.src;
   console.log('Big', BannerImg);
 
