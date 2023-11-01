@@ -20,6 +20,7 @@ type ContentBlockProps = ComponentProps & {
 };
 
 const ContentBlock = ({ fields }: ContentBlockProps): JSX.Element => {
+  // const ContentImg = 'https://frank-corgi-nice.ngrok-free.app' + fields?.image;
   return (
     <div className={`container px-4 w-full sm:px-0 sm:mx-auto py-[40px] lg:py-[60px]`}>
       <div
@@ -56,7 +57,7 @@ const ContentBlock = ({ fields }: ContentBlockProps): JSX.Element => {
           )}
         </div>
         <div className="w-full md:w-1/2 my-auto">
-          <Image field={fields?.image} className="w-full rounded-lg" />
+          <Image field={fields.image} className="w-full rounded-lg" />
         </div>
       </div>
     </div>
