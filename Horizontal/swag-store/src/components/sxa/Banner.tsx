@@ -8,8 +8,7 @@ const Banner = ({ fields }: BannerProps) => {
   console.log('b', fields);
   const BannerImg =
     // fields?.image.value?.src ||
-    '' +
-    fields?.image.value?.src?.replace('https://xm1.cm', 'https://frank-corgi-nice.ngrok-free.app');
+    'https://frank-corgi-nice.ngrok-free.app' + fields?.image.value?.src;
   console.log('Big', BannerImg);
 
   return (
