@@ -14,13 +14,7 @@ const Banner = ({ fields }: BannerProps) => {
 
   return (
     <div className="relative h-screen w-full overflow-hidden">
-      <NextImage
-        className="min-w-fit h-screen"
-        src={BannerImg}
-        height={1000}
-        width={2000}
-        alt={fields?.image.value?.src as string}
-      ></NextImage>
+      <NextImage className="min-w-fit h-screen" src={BannerImg}></NextImage>
       <div className="absolute bottom-0 left-0 right-0 top-0 h-auto w-full overflow-hidden  bg-black/[0.6]">
         <div className=" flex flex-col gap-10 justify-center items-center h-full w-full md:w-3/4 container mx-auto py-auto px-4">
           <div className="font-bold text-4xl text-white">
