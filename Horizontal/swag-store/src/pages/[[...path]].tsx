@@ -92,9 +92,13 @@ export const getStaticPaths: GetStaticPaths = async (context) => {
 // revalidation (or fallback) is enabled and a new request comes in.
 export const getStaticProps: GetStaticProps = async (context) => {
   const props = await sitecorePagePropsFactory.create(context);
-
+  const headers = {
+    'ngrok-skip-browser-warning': '1',
+    // Add any other headers you need here
+  };
   return {
     props,
+    headers,
     // Next.js will attempt to re-generate the page:
     // - When a request comes in
     // - At most once every 5 seconds
