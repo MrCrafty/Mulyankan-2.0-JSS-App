@@ -4,10 +4,10 @@ import {
   withDatasourceCheck,
   LinkField,
   ImageField,
-  Image,
   RichText,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
+import Image from 'next/image';
 import Link from 'next/link';
 type ContentBlockProps = ComponentProps & {
   fields: {
@@ -57,7 +57,13 @@ const ContentBlock = ({ fields }: ContentBlockProps): JSX.Element => {
           )}
         </div>
         <div className="w-full md:w-1/2 my-auto">
-          <Image field={fields.image} className="w-full rounded-lg" />
+          <Image
+            src={'https://frank-corgi-nice.ngrok-free.app' + fields.image.value?.src}
+            alt=""
+            height={500}
+            width={500}
+            className="w-full rounded-lg"
+          />
         </div>
       </div>
     </div>
