@@ -5,11 +5,11 @@ import React from 'react';
 import { HZTLSWAG } from 'src/models/HZTLSWAG.Templates.Model';
 type BannerProps = HZTLSWAG.Templates.Sitecore.templates.swagstore.DataSourceTemplate.Fields.Banner;
 const Banner = ({ fields }: BannerProps) => {
-  console.log(fields);
-  // const BannerImg =
-  // fields?.image.value?.src ||
-  // 'https://frank-corgi-nice.ngrok-free.app' + fields?.image.value?.src;
-  // console.log('Big', BannerImg);
+  console.log('b', fields);
+  const BannerImg =
+    // fields?.image.value?.src ||
+    fields?.image.value?.src?.replace('https://xm1.cm', 'https://frank-corgi-nice.ngrok-free.app');
+  console.log('Big', BannerImg);
 
   return (
     <div className="relative h-screen w-full overflow-hidden">
