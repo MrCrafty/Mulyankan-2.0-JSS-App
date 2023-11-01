@@ -15,7 +15,7 @@ const Banner = ({ fields }: BannerProps) => {
     <div className="relative h-screen w-full overflow-hidden">
       <Image
         className="min-w-fit h-screen"
-        src={fields?.image.value?.src as string}
+        src={BannerImg as string}
         height={1000}
         width={2000}
         alt={fields?.image.value?.src as string}
