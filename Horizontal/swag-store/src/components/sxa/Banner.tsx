@@ -1,5 +1,6 @@
-import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import Image from 'next/image';
+import { NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+// import Image from 'next/image';
+
 import Link from 'next/link';
 import React from 'react';
 import { HZTLSWAG } from 'src/models/HZTLSWAG.Templates.Model';
@@ -8,18 +9,18 @@ const Banner = ({ fields }: BannerProps) => {
   console.log('b', fields);
   const BannerImg =
     // fields?.image.value?.src ||
-    'https://frank-corgi-nice.ngrok-free.app' + fields?.image.value?.src;
+    fields?.image.value?.src?.replace('https://xm1.cm', 'https://frank-corgi-nice.ngrok-free.app');
   console.log('Big', BannerImg);
 
   return (
     <div className="relative h-screen w-full overflow-hidden">
-      <Image
+      <NextImage
         className="min-w-fit h-screen"
         src={BannerImg}
         height={1000}
         width={2000}
         alt={fields?.image.value?.src as string}
-      ></Image>
+      ></NextImage>
       <div className="absolute bottom-0 left-0 right-0 top-0 h-auto w-full overflow-hidden  bg-black/[0.6]">
         <div className=" flex flex-col gap-10 justify-center items-center h-full w-full md:w-3/4 container mx-auto py-auto px-4">
           <div className="font-bold text-4xl text-white">
