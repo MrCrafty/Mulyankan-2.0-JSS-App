@@ -22,11 +22,11 @@ const Carousel = ({ fields }: CarouselProps) => {
   console.log('Carousel', fields);
 
   return (
-    <div className="w-screen overflow-hidden py-5 ">
+    <div className="w-full overflow-hidden py-5">
       <div className="text-center font-bold text-3xl ">
         <Text tag="h2" field={fields?.Title}></Text>
       </div>
-      <div className="">
+      <div className="w-full">
         <Slider {...settings}>
           {fields?.Items.map((Carousel: CarouselItem, index: number) => {
             return (

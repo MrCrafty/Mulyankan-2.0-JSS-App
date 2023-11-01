@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method == 'POST') {
-    const url = 'https://xm1.cm/api/auth/login';
+    const url = 'frank-corgi-nice.ngrok-free.app/api/auth/login';
     const content = { email: req.body.email, password: req.body.password };
     axios
       .post(url, content)
